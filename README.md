@@ -12,3 +12,10 @@ OPTIONS:
 
 $ python search.py fever 
 ```
+## Interactive Mode in Browser
+
+```console 
+$ pip install -r requirements.txt
+$ streamlit run search_int.py
+```
+![alt text](image.png "Screenshot")
