@@ -1,0 +1,3398 @@
+{
+  "ABIES-C": {
+    "short_name": "ABIES-C",
+    "long_name": "ABIES CANADENSIS-PINUS CANADENSIS",
+    "link": "a/abies-c.htm"
+  },
+  "ABIES-N": {
+    "short_name": "ABIES-N",
+    "long_name": "ABIES NIGRA",
+    "link": "a/abies-n.htm"
+  },
+  "ABR": {
+    "short_name": "ABR",
+    "long_name": "ABRUS PRECATORIUS - JEQUIRITY (JEQUIRITY - ARBRUS PRECATORIUS)",
+    "link": "a/abr.htm"
+  },
+  "ABROT": {
+    "short_name": "ABROT",
+    "long_name": "ABROTANUM",
+    "link": "a/abrot.htm"
+  },
+  "ABSIN": {
+    "short_name": "ABSIN",
+    "long_name": "ABSINTHIUM",
+    "link": "a/absin.htm"
+  },
+  "ACAL": {
+    "short_name": "ACAL",
+    "long_name": "ACALYPHA INDICA",
+    "link": "a/acal.htm"
+  },
+  "ACET-AC": {
+    "short_name": "ACET-AC",
+    "long_name": "ACETICUM ACIDUM (ACETIC ACID)",
+    "link": "a/acet-ac.htm"
+  },
+  "ACETAN": {
+    "short_name": "ACETAN",
+    "long_name": "ACETANILIDUM",
+    "link": "a/acetan.htm"
+  },
+  "ACON": {
+    "short_name": "ACON",
+    "long_name": "ACONITUM NAPELLUS",
+    "link": "a/acon.htm"
+  },
+  "ACT-SP": {
+    "short_name": "ACT-SP",
+    "long_name": "ACTAEA SPICATA (ACTEA SPICATA)",
+    "link": "a/act-sp.htm"
+  },
+  "ADON": {
+    "short_name": "ADON",
+    "long_name": "ADONIS VERNALIS",
+    "link": "a/adon.htm"
+  },
+  "ADREN": {
+    "short_name": "ADREN",
+    "long_name": "ADRENALINUM (ADRENALIN)",
+    "link": "a/adren.htm"
+  },
+  "AESC": {
+    "short_name": "AESC",
+    "long_name": "AESCULUS HIPPOCASTANUM",
+    "link": "a/aesc.htm"
+  },
+  "AETH": {
+    "short_name": "AETH",
+    "long_name": "AETHUSA CYNAPIUM",
+    "link": "a/aeth.htm"
+  },
+  "AETHI-M": {
+    "short_name": "AETHI-M",
+    "long_name": "AETHIOPS MINERALIS (AETHIOPS MERCURIALIS-MINERALIS)",
+    "link": "a/aethi-m.htm"
+  },
+  "AGAR": {
+    "short_name": "AGAR",
+    "long_name": "AGARICUS MUSCARIUS (AGARICUS MUSCARIUS-AMANITA)",
+    "link": "a/agar.htm"
+  },
+  "AGAV-A": {
+    "short_name": "AGAV-A",
+    "long_name": "AGAVE AMERICANA",
+    "link": "a/agav-a.htm"
+  },
+  "AGN": {
+    "short_name": "AGN",
+    "long_name": "AGNUS CASTUS",
+    "link": "a/agn.htm"
+  },
+  "AGRA": {
+    "short_name": "AGRA",
+    "long_name": "AGRAPHIS NUTANS",
+    "link": "a/agra.htm"
+  },
+  "AIL": {
+    "short_name": "AIL",
+    "long_name": "AILANTHUS GLANDULOSA",
+    "link": "a/ail.htm"
+  },
+  "ALET": {
+    "short_name": "ALET",
+    "long_name": "ALETRIS FARINOSA",
+    "link": "a/alet.htm"
+  },
+  "ALF": { "short_name": "ALF", "long_name": "ALFALFA", "link": "a/alf.htm" },
+  "ALL-C": {
+    "short_name": "ALL-C",
+    "long_name": "ALLIUM CEPA",
+    "link": "a/all-c.htm"
+  },
+  "ALL-S": {
+    "short_name": "ALL-S",
+    "long_name": "ALLIUM SATIVUM",
+    "link": "a/all-s.htm"
+  },
+  "ALN": {
+    "short_name": "ALN",
+    "long_name": "ALNUS RUBRA (ALNUS)",
+    "link": "a/aln.htm"
+  },
+  "ALOE": {
+    "short_name": "ALOE",
+    "long_name": "ALOE SOCOTRINA (ALOE)",
+    "link": "a/aloe.htm"
+  },
+  "ALST-S": {
+    "short_name": "ALST-S",
+    "long_name": "ALSTONIA SCHOLARIS",
+    "link": "a/alst-s.htm"
+  },
+  "ALUM": {
+    "short_name": "ALUM",
+    "long_name": "ALUMINA",
+    "link": "a/alum.htm"
+  },
+  "ALUM-SIL": {
+    "short_name": "ALUM-SIL",
+    "long_name": "ALUMINA SILICATA",
+    "link": "a/alum-sil.htm"
+  },
+  "ALUMN": {
+    "short_name": "ALUMN",
+    "long_name": "ALUMEN",
+    "link": "a/alumn.htm"
+  },
+  "AM-BE": {
+    "short_name": "AM-BE",
+    "long_name": "AMMONIUM BENZOICUM",
+    "link": "a/am-be.htm"
+  },
+  "AM-BR": {
+    "short_name": "AM-BR",
+    "long_name": "AMMONIUM BROMATUM",
+    "link": "a/am-br.htm"
+  },
+  "AM-C": {
+    "short_name": "AM-C",
+    "long_name": "AMMONIUM CARBONICUM (AMMONIUM CARB)",
+    "link": "a/am-c.htm"
+  },
+  "AM-CAUST": {
+    "short_name": "AM-CAUST",
+    "long_name": "AMMONIUM CAUSTICUM",
+    "link": "a/am-caust.htm"
+  },
+  "AM-I": {
+    "short_name": "AM-I",
+    "long_name": "AMMONIUM IODATUM (AMMONIUM JODATUM)",
+    "link": "a/am-i.htm"
+  },
+  "AM-M": {
+    "short_name": "AM-M",
+    "long_name": "AMMONIUM MURIATICUM",
+    "link": "a/am-m.htm"
+  },
+  "AM-P": {
+    "short_name": "AM-P",
+    "long_name": "AMMONIUM PHOSPHORICUM",
+    "link": "a/am-p.htm"
+  },
+  "AM-PIC": {
+    "short_name": "AM-PIC",
+    "long_name": "AMMONIUM PICRICUM (AMMONIUM PICRATUM)",
+    "link": "a/am-pic.htm"
+  },
+  "AM-VAL": {
+    "short_name": "AM-VAL",
+    "long_name": "AMMONIUM VALERIANICUM",
+    "link": "a/am-val.htm"
+  },
+  "AMBR": {
+    "short_name": "AMBR",
+    "long_name": "AMBRA GRISEA",
+    "link": "a/ambr.htm"
+  },
+  "AMBRO": {
+    "short_name": "AMBRO",
+    "long_name": "AMBROSIA ARTEMISIAEFOLIA (AMBROSIA)",
+    "link": "a/ambro.htm"
+  },
+  "AMGD-P": {
+    "short_name": "AMGD-P",
+    "long_name": "AMYGDALUS PERSICA",
+    "link": "a/amgd-p.htm"
+  },
+  "AML-NS": {
+    "short_name": "AML-NS",
+    "long_name": "AMYLENUM NITROSUM (AMYL NITROSUM)",
+    "link": "a/aml-ns.htm"
+  },
+  "AMMC": {
+    "short_name": "AMMC",
+    "long_name": "AMMONIACUM GUMMI (AMMONIACUM-DOREMA)",
+    "link": "a/ammc.htm"
+  },
+  "AMPE-QU": {
+    "short_name": "AMPE-QU",
+    "long_name": "AMPELOPSIS QUINQUEFOLIA (AMPELOPSIS)",
+    "link": "a/ampe-qu.htm"
+  },
+  "ANAC": {
+    "short_name": "ANAC",
+    "long_name": "ANACARDIUM ORIENTALE (ANACARDIUM)",
+    "link": "a/anac.htm"
+  },
+  "ANAG": {
+    "short_name": "ANAG",
+    "long_name": "ANAGALLIS ARVENSIS (ANAGALLIS)",
+    "link": "a/anag.htm"
+  },
+  "ANAN": {
+    "short_name": "ANAN",
+    "long_name": "ANANTHERUM MURICATUM (ANATHERUM)",
+    "link": "a/anan.htm"
+  },
+  "ANEMPS": {
+    "short_name": "ANEMPS",
+    "long_name": "ANEMOPSIS CALIFORNICA",
+    "link": "a/anemps.htm"
+  },
+  "ANG": {
+    "short_name": "ANG",
+    "long_name": "ANGUSTURA VERA",
+    "link": "a/ang.htm"
+  },
+  "ANH": {
+    "short_name": "ANH",
+    "long_name": "ANHALONIUM LEWINII (ANHALONIUM)",
+    "link": "a/anh.htm"
+  },
+  "ANIL": {
+    "short_name": "ANIL",
+    "long_name": "ANILINUM",
+    "link": "a/anil.htm"
+  },
+  "ANIS": {
+    "short_name": "ANIS",
+    "long_name": "ANISUM STELLATUM (ILLICIUM)",
+    "link": "a/anis.htm"
+  },
+  "ANT-AR": {
+    "short_name": "ANT-AR",
+    "long_name": "ANTIMONIUM ARSENICOSUM",
+    "link": "a/ant-ar.htm"
+  },
+  "ANT-C": {
+    "short_name": "ANT-C",
+    "long_name": "ANTIMONIUM CRUDUM",
+    "link": "a/ant-c.htm"
+  },
+  "ANT-SAUR": {
+    "short_name": "ANT-SAUR",
+    "long_name": "ANTIMONIUM SULPHURATUM AURATUM",
+    "link": "a/ant-saur.htm"
+  },
+  "ANT-T": {
+    "short_name": "ANT-T",
+    "long_name": "ANTIMONIUM TARTARICUM",
+    "link": "a/ant-t.htm"
+  },
+  "ANTH": {
+    "short_name": "ANTH",
+    "long_name": "ANTHEMIS NOBILIS",
+    "link": "a/anth.htm"
+  },
+  "ANTHRACI": {
+    "short_name": "ANTHRACI",
+    "long_name": "ANTHRACINUM",
+    "link": "a/anthraci.htm"
+  },
+  "ANTHRACO": {
+    "short_name": "ANTHRACO",
+    "long_name": "ANTHRACOKALI (ANTHRAKOKALI)",
+    "link": "a/anthraco.htm"
+  },
+  "ANTIP": {
+    "short_name": "ANTIP",
+    "long_name": "ANTIPYRINUM (ANTIPYRINE)",
+    "link": "a/antip.htm"
+  },
+  "AP-G": {
+    "short_name": "AP-G",
+    "long_name": "APIUM GRAVEOLENS",
+    "link": "a/ap-g.htm"
+  },
+  "APHIS": {
+    "short_name": "APHIS",
+    "long_name": "APHIS CHENOPODII GLAUCI (CHENOPODI GLAUCI APHIS)",
+    "link": "a/aphis.htm"
+  },
+  "APIS": {
+    "short_name": "APIS",
+    "long_name": "APIS MELLIFICA",
+    "link": "a/apis.htm"
+  },
+  "APOC": {
+    "short_name": "APOC",
+    "long_name": "APOCYNUM CANNABINUM",
+    "link": "a/apoc.htm"
+  },
+  "APOC-A": {
+    "short_name": "APOC-A",
+    "long_name": "APOCYNUM ANDROSAEMIFOLIUM",
+    "link": "a/apoc-a.htm"
+  },
+  "APOM": {
+    "short_name": "APOM",
+    "long_name": "APOMORPHINUM (APOMORPHIA)",
+    "link": "a/apom.htm"
+  },
+  "AQUI": {
+    "short_name": "AQUI",
+    "long_name": "AQUILEGIA VULGARIS (AQUILEGIA)",
+    "link": "a/aqui.htm"
+  },
+  "ARAG": {
+    "short_name": "ARAG",
+    "long_name": "ARAGALLUS LAMBERTI",
+    "link": "a/arag.htm"
+  },
+  "ARAL": {
+    "short_name": "ARAL",
+    "long_name": "ARALIA RACEMOSA",
+    "link": "a/aral.htm"
+  },
+  "ARAN": {
+    "short_name": "ARAN",
+    "long_name": "ARANEA DIADEMA",
+    "link": "a/aran.htm"
+  },
+  "ARB": {
+    "short_name": "ARB",
+    "long_name": "ARBUTUS ANDRACHNE",
+    "link": "a/arb.htm"
+  },
+  "AREC": {
+    "short_name": "AREC",
+    "long_name": "ARECA CATECHU (ARECA)",
+    "link": "a/arec.htm"
+  },
+  "ARG-MET": {
+    "short_name": "ARG-MET",
+    "long_name": "ARGENTUM METALLICUM",
+    "link": "a/arg-met.htm"
+  },
+  "ARG-N": {
+    "short_name": "ARG-N",
+    "long_name": "ARGENTUM NITRICUM",
+    "link": "a/arg-n.htm"
+  },
+  "ARGE": {
+    "short_name": "ARGE",
+    "long_name": "ARGEMONE MEXICANA",
+    "link": "a/arge.htm"
+  },
+  "ARIST-M": {
+    "short_name": "ARIST-M",
+    "long_name": "ARISTOLOCHIA MILHOMENS",
+    "link": "a/arist-m.htm"
+  },
+  "ARN": {
+    "short_name": "ARN",
+    "long_name": "ARNICA MONTANA (ARNICA)",
+    "link": "a/arn.htm"
+  },
+  "ARS": {
+    "short_name": "ARS",
+    "long_name": "ARSENICUM ALBUM",
+    "link": "a/ars.htm"
+  },
+  "ARS-BR": {
+    "short_name": "ARS-BR",
+    "long_name": "ARSENICUM BROMATUM",
+    "link": "a/ars-br.htm"
+  },
+  "ARS-H": {
+    "short_name": "ARS-H",
+    "long_name": "ARSENICUM HYDROGENISATUM",
+    "link": "a/ars-h.htm"
+  },
+  "ARS-I": {
+    "short_name": "ARS-I",
+    "long_name": "ARSENICUM IODATUM",
+    "link": "a/ars-i.htm"
+  },
+  "ARS-MET": {
+    "short_name": "ARS-MET",
+    "long_name": "ARSENICUM METALLICUM",
+    "link": "a/ars-met.htm"
+  },
+  "ARS-S-F": {
+    "short_name": "ARS-S-F",
+    "long_name": "ARSENICUM SULPHURATUM FLAVUM (ARSENIC TRISULPH.)",
+    "link": "a/ars-s-f.htm"
+  },
+  "ART-V": {
+    "short_name": "ART-V",
+    "long_name": "ARTEMISIA VULGARIS",
+    "link": "a/art-v.htm"
+  },
+  "ARUM-D": {
+    "short_name": "ARUM-D",
+    "long_name": "ARUM DRACONTIUM",
+    "link": "a/arum-d.htm"
+  },
+  "ARUM-T": {
+    "short_name": "ARUM-T",
+    "long_name": "ARUM TRIPHYLLUM",
+    "link": "a/arum-t.htm"
+  },
+  "ARUND": {
+    "short_name": "ARUND",
+    "long_name": "ARUNDO MAURITANICA (ARUNDO)",
+    "link": "a/arund.htm"
+  },
+  "ASAF": {
+    "short_name": "ASAF",
+    "long_name": "ASA FOETIDA (ASAFOETIDA)",
+    "link": "a/asaf.htm"
+  },
+  "ASAR": {
+    "short_name": "ASAR",
+    "long_name": "ASARUM EUROPAEUM (ASARUM EUROPUM)",
+    "link": "a/asar.htm"
+  },
+  "ASC-C": {
+    "short_name": "ASC-C",
+    "long_name": "ASCLEPIAS CORNUTI (ASCLEPIAS SYRIACA)",
+    "link": "a/asc-c.htm"
+  },
+  "ASC-T": {
+    "short_name": "ASC-T",
+    "long_name": "ASCLEPIAS TUBEROSA",
+    "link": "a/asc-t.htm"
+  },
+  "ASIM": {
+    "short_name": "ASIM",
+    "long_name": "ASIMINA TRILOBA",
+    "link": "a/asim.htm"
+  },
+  "ASPAR": {
+    "short_name": "ASPAR",
+    "long_name": "ASPARAGUS OFFICINALIS",
+    "link": "a/aspar.htm"
+  },
+  "ASTAC": {
+    "short_name": "ASTAC",
+    "long_name": "ASTACUS FLUVIATILIS (CANCER ASTACUS)",
+    "link": "a/astac.htm"
+  },
+  "ASTER": {
+    "short_name": "ASTER",
+    "long_name": "ASTERIAS RUBENS",
+    "link": "a/aster.htm"
+  },
+  "ASTRA-MO": {
+    "short_name": "ASTRA-MO",
+    "long_name": "ASTRAGALUS MOLLISSIMUS",
+    "link": "a/astra-mo.htm"
+  },
+  "AUR": {
+    "short_name": "AUR",
+    "long_name": "AURUM METALLICUM",
+    "link": "a/aur.htm"
+  },
+  "AUR-M-N": {
+    "short_name": "AUR-M-N",
+    "long_name": "AURUM MURIATICUM NATRONATUM",
+    "link": "a/aur-m-n.htm"
+  },
+  "AVEN": {
+    "short_name": "AVEN",
+    "long_name": "AVENA SATIVA",
+    "link": "a/aven.htm"
+  },
+  "AZA": {
+    "short_name": "AZA",
+    "long_name": "AZADIRACHTA INDICA",
+    "link": "a/aza.htm"
+  },
+  "BAC": {
+    "short_name": "BAC",
+    "long_name": "BACILLINUM BURNETT (BACILLINUM)",
+    "link": "b/bac.htm"
+  },
+  "BAD": { "short_name": "BAD", "long_name": "BADIAGA", "link": "b/bad.htm" },
+  "BALS-P": {
+    "short_name": "BALS-P",
+    "long_name": "BALSAMUM PERUVIANUM",
+    "link": "b/bals-p.htm"
+  },
+  "BAPT": {
+    "short_name": "BAPT",
+    "long_name": "BAPTISIA TINCTORIA (BAPTISIA)",
+    "link": "b/bapt.htm"
+  },
+  "BAR-ACT": {
+    "short_name": "BAR-ACT",
+    "long_name": "BARYTA ACETICA",
+    "link": "b/bar-act.htm"
+  },
+  "BAR-C": {
+    "short_name": "BAR-C",
+    "long_name": "BARYTA CARBONICA (BARYTA CARB)",
+    "link": "b/bar-c.htm"
+  },
+  "BAR-I": {
+    "short_name": "BAR-I",
+    "long_name": "BARYTA IODATA",
+    "link": "b/bar-i.htm"
+  },
+  "BAR-M": {
+    "short_name": "BAR-M",
+    "long_name": "BARYTA MURIATICA",
+    "link": "b/bar-m.htm"
+  },
+  "BAROS": {
+    "short_name": "BAROS",
+    "long_name": "BAROSMA CRENULATUM (BAROSMA CRENATA)",
+    "link": "b/baros.htm"
+  },
+  "BELL": {
+    "short_name": "BELL",
+    "long_name": "BELLADONNA",
+    "link": "b/bell.htm"
+  },
+  "BELL-P": {
+    "short_name": "BELL-P",
+    "long_name": "BELLIS PERENNIS",
+    "link": "b/bell-p.htm"
+  },
+  "BENZ-AC": {
+    "short_name": "BENZ-AC",
+    "long_name": "BENZOICUM ACIDUM",
+    "link": "b/benz-ac.htm"
+  },
+  "BENZOL": {
+    "short_name": "BENZOL",
+    "long_name": "BENZOLUM (BENZENUM - COAL NAPHTHA)",
+    "link": "b/benzol.htm"
+  },
+  "BERB": {
+    "short_name": "BERB",
+    "long_name": "BERBERIS VULGARIS",
+    "link": "b/berb.htm"
+  },
+  "BERB-A": {
+    "short_name": "BERB-A",
+    "long_name": "BERBERIS AQUIFOLIUM (BERBERIS AQUIFOLIUM - MAHONIA)",
+    "link": "b/berb-a.htm"
+  },
+  "BETA": {
+    "short_name": "BETA",
+    "long_name": "BETA VULGARIS",
+    "link": "b/beta.htm"
+  },
+  "BISM-SN": {
+    "short_name": "BISM-SN",
+    "long_name": "BISMUTHUM SUBNITRICUM (BISMUTHUM)",
+    "link": "b/bism-sn.htm"
+  },
+  "BLATTA-A": {
+    "short_name": "BLATTA-A",
+    "long_name": "BLATTA AMERICANA",
+    "link": "b/blatta-a.htm"
+  },
+  "BLATTA-O": {
+    "short_name": "BLATTA-O",
+    "long_name": "BLATTA ORIENTALIS",
+    "link": "b/blatta-o.htm"
+  },
+  "BOL-LA": {
+    "short_name": "BOL-LA",
+    "long_name": "BOLETUS LARICIS (POLYPORUS OFFICINALE)",
+    "link": "b/bol-la.htm"
+  },
+  "BOR-AC": {
+    "short_name": "BOR-AC",
+    "long_name": "BORICUM ACIDUM",
+    "link": "b/bor-ac.htm"
+  },
+  "BORX": {
+    "short_name": "BORX",
+    "long_name": "BORAX VENETA (BORAX)",
+    "link": "b/borx.htm"
+  },
+  "BOTH": {
+    "short_name": "BOTH",
+    "long_name": "BOTHROPS LANCEOLATUS (BOTHROPS LANCIOLATUS - LACHESIS LANCIOLATUS)",
+    "link": "b/both.htm"
+  },
+  "BOTUL": {
+    "short_name": "BOTUL",
+    "long_name": "BOTULINUM",
+    "link": "b/botul.htm"
+  },
+  "BOV": {
+    "short_name": "BOV",
+    "long_name": "BOVISTA LYCOPERDON (BOVISTA)",
+    "link": "b/bov.htm"
+  },
+  "BRACH": {
+    "short_name": "BRACH",
+    "long_name": "BRACHYGLOTTIS REPENS (BRACHYGLOTTIS)",
+    "link": "b/brach.htm"
+  },
+  "BROM": {
+    "short_name": "BROM",
+    "long_name": "BROMIUM (BROMUM)",
+    "link": "b/brom.htm"
+  },
+  "BRY": {
+    "short_name": "BRY",
+    "long_name": "BRYONIA ALBA (BRYONIA)",
+    "link": "b/bry.htm"
+  },
+  "BUFO": {
+    "short_name": "BUFO",
+    "long_name": "BUFO RANA (BUFO)",
+    "link": "b/bufo.htm"
+  },
+  "BUT-AC": {
+    "short_name": "BUT-AC",
+    "long_name": "BUTYRICUM ACIDUM (BUTYRIC ACID)",
+    "link": "b/but-ac.htm"
+  },
+  "CACT": {
+    "short_name": "CACT",
+    "long_name": "CACTUS GRANDIFLORUS (SELENICEREUS SPINULOSUS)",
+    "link": "c/cact.htm"
+  },
+  "CADM-S": {
+    "short_name": "CADM-S",
+    "long_name": "CADMIUM SULPHURATUM",
+    "link": "c/cadm-s.htm"
+  },
+  "CAIN": {
+    "short_name": "CAIN",
+    "long_name": "CAINCA (CAHINCA)",
+    "link": "c/cain.htm"
+  },
+  "CAJ": {
+    "short_name": "CAJ",
+    "long_name": "CAJUPUTUM (OLEUM WITTNEBIANUM)",
+    "link": "c/caj.htm"
+  },
+  "CALAD": {
+    "short_name": "CALAD",
+    "long_name": "CALADIUM SEGUINUM",
+    "link": "c/calad.htm"
+  },
+  "CALC": {
+    "short_name": "CALC",
+    "long_name": "CALCAREA CARBONICA (CALCAREA CARBONICA - OSTREARUM)",
+    "link": "c/calc.htm"
+  },
+  "CALC-ACT": {
+    "short_name": "CALC-ACT",
+    "long_name": "CALCAREA ACETICA",
+    "link": "c/calc-act.htm"
+  },
+  "CALC-AR": {
+    "short_name": "CALC-AR",
+    "long_name": "CALCAREA ARSENICOSA (CALCAREA ARSENICA)",
+    "link": "c/calc-ar.htm"
+  },
+  "CALC-F": {
+    "short_name": "CALC-F",
+    "long_name": "CALCAREA FLUORICA (FLUOR SPAR)",
+    "link": "c/calc-f.htm"
+  },
+  "CALC-I": {
+    "short_name": "CALC-I",
+    "long_name": "CALCAREA IODATA",
+    "link": "c/calc-i.htm"
+  },
+  "CALC-P": {
+    "short_name": "CALC-P",
+    "long_name": "CALCAREA PHOSPHORICA",
+    "link": "c/calc-p.htm"
+  },
+  "CALC-S": {
+    "short_name": "CALC-S",
+    "long_name": "CALCAREA SULPHURICA",
+    "link": "c/calc-s.htm"
+  },
+  "CALC-SIL": {
+    "short_name": "CALC-SIL",
+    "long_name": "CALCAREA SILICATA",
+    "link": "c/calc-sil.htm"
+  },
+  "CALEN": {
+    "short_name": "CALEN",
+    "long_name": "CALENDULA OFFICINALIS",
+    "link": "c/calen.htm"
+  },
+  "CALO": {
+    "short_name": "CALO",
+    "long_name": "CALOTROPIS GIGANTEA (CALOTROPIS)",
+    "link": "c/calo.htm"
+  },
+  "CALTH": {
+    "short_name": "CALTH",
+    "long_name": "CALTHA PALUSTRIS",
+    "link": "c/calth.htm"
+  },
+  "CAMPH": {
+    "short_name": "CAMPH",
+    "long_name": "CAMPHORA",
+    "link": "c/camph.htm"
+  },
+  "CAMPH-BR": {
+    "short_name": "CAMPH-BR",
+    "long_name": "CAMPHORA BROMATA (CAMPHORA MONO-BROMATA)",
+    "link": "c/camph-br.htm"
+  },
+  "CANCH": {
+    "short_name": "CANCH",
+    "long_name": "CANCHALAGUA",
+    "link": "c/canch.htm"
+  },
+  "CANN-I": {
+    "short_name": "CANN-I",
+    "long_name": "CANNABIS INDICA",
+    "link": "c/cann-i.htm"
+  },
+  "CANN-S": {
+    "short_name": "CANN-S",
+    "long_name": "CANNABIS SATIVA",
+    "link": "c/cann-s.htm"
+  },
+  "CANTH": {
+    "short_name": "CANTH",
+    "long_name": "CANTHARIS VESICATORIA (CANTHARIS)",
+    "link": "c/canth.htm"
+  },
+  "CAPS": {
+    "short_name": "CAPS",
+    "long_name": "CAPSICUM ANNUUM (CAPSICUM)",
+    "link": "c/caps.htm"
+  },
+  "CARB-AC": {
+    "short_name": "CARB-AC",
+    "long_name": "CARBOLICUM ACIDUM",
+    "link": "c/carb-ac.htm"
+  },
+  "CARB-AN": {
+    "short_name": "CARB-AN",
+    "long_name": "CARBO ANIMALIS",
+    "link": "c/carb-an.htm"
+  },
+  "CARB-V": {
+    "short_name": "CARB-V",
+    "long_name": "CARBO VEGETABILIS",
+    "link": "c/carb-v.htm"
+  },
+  "CARBN-H": {
+    "short_name": "CARBN-H",
+    "long_name": "CARBONEUM HYDROGENISATUM",
+    "link": "c/carbn-h.htm"
+  },
+  "CARBN-O": {
+    "short_name": "CARBN-O",
+    "long_name": "CARBONEUM OXYGENISATUM",
+    "link": "c/carbn-o.htm"
+  },
+  "CARBN-S": {
+    "short_name": "CARBN-S",
+    "long_name": "CARBONEUM SULPHURATUM",
+    "link": "c/carbn-s.htm"
+  },
+  "CARC": {
+    "short_name": "CARC",
+    "long_name": "CARCINOSINUM (CARCINOSIN)",
+    "link": "c/carc.htm"
+  },
+  "CARD-M": {
+    "short_name": "CARD-M",
+    "long_name": "CARDUUS MARIANUS",
+    "link": "c/card-m.htm"
+  },
+  "CARL": {
+    "short_name": "CARL",
+    "long_name": "CARLSBAD AQUA (CARLSBAD)",
+    "link": "c/carl.htm"
+  },
+  "CAS-S": {
+    "short_name": "CAS-S",
+    "long_name": "CASCARA SAGRADA (RHAMNUS PURSHIANA)",
+    "link": "c/cas-s.htm"
+  },
+  "CASC": {
+    "short_name": "CASC",
+    "long_name": "CASCARILLA",
+    "link": "c/casc.htm"
+  },
+  "CAST": {
+    "short_name": "CAST",
+    "long_name": "CASTOREUM CANADENSE (CASTOREUM)",
+    "link": "c/cast.htm"
+  },
+  "CASTN-V": {
+    "short_name": "CASTN-V",
+    "long_name": "CASTANEA VESCA",
+    "link": "c/castn-v.htm"
+  },
+  "CASTOR-E": {
+    "short_name": "CASTOR-E",
+    "long_name": "CASTOR EQUI",
+    "link": "c/castor-e.htm"
+  },
+  "CATAR": {
+    "short_name": "CATAR",
+    "long_name": "CATARIA NEPETA",
+    "link": "c/catar.htm"
+  },
+  "CAUL": {
+    "short_name": "CAUL",
+    "long_name": "CAULOPHYLLUM THALICTROIDES (CAULOPHYLLUM)",
+    "link": "c/caul.htm"
+  },
+  "CAUST": {
+    "short_name": "CAUST",
+    "long_name": "CAUSTICUM",
+    "link": "c/caust.htm"
+  },
+  "CEAN": {
+    "short_name": "CEAN",
+    "long_name": "CEANOTHUS AMERICANUS (CEANOTHUS)",
+    "link": "c/cean.htm"
+  },
+  "CEDR": {
+    "short_name": "CEDR",
+    "long_name": "CEDRON (SIMARUBA FERROGINEA)",
+    "link": "c/cedr.htm"
+  },
+  "CENCH": {
+    "short_name": "CENCH",
+    "long_name": "CENCHRIS CONTORTRIX (ANCISTRODON)",
+    "link": "c/cench.htm"
+  },
+  "CER-OX": {
+    "short_name": "CER-OX",
+    "long_name": "CERIUM OXALICUM",
+    "link": "c/cer-ox.htm"
+  },
+  "CERE-B": {
+    "short_name": "CERE-B",
+    "long_name": "CEREUS BONPLANDII",
+    "link": "c/cere-b.htm"
+  },
+  "CHAM": {
+    "short_name": "CHAM",
+    "long_name": "CHAMOMILLA",
+    "link": "c/cham.htm"
+  },
+  "CHAP": {
+    "short_name": "CHAP",
+    "long_name": "CHAPARRO AMARGOSO",
+    "link": "c/chap.htm"
+  },
+  "CHEL": {
+    "short_name": "CHEL",
+    "long_name": "CHELIDONIUM MAJUS",
+    "link": "c/chel.htm"
+  },
+  "CHELO": {
+    "short_name": "CHELO",
+    "long_name": "CHELONE GLABRA (CHELONE)",
+    "link": "c/chelo.htm"
+  },
+  "CHEN-A": {
+    "short_name": "CHEN-A",
+    "long_name": "CHENOPODIUM ANTHELMINTICUM",
+    "link": "c/chen-a.htm"
+  },
+  "CHIM": {
+    "short_name": "CHIM",
+    "long_name": "CHIMAPHILA UMBELLATA",
+    "link": "c/chim.htm"
+  },
+  "CHIN": {
+    "short_name": "CHIN",
+    "long_name": "CHINA OFFICINALIS (CINCHONA OFFICINALIS)",
+    "link": "c/chin.htm"
+  },
+  "CHININ-A": {
+    "short_name": "CHININ-A",
+    "long_name": "CHININUM ARSENICOSUM",
+    "link": "c/chinin-a.htm"
+  },
+  "CHININ-S": {
+    "short_name": "CHININ-S",
+    "long_name": "CHININUM SULPHURICUM",
+    "link": "c/chinin-s.htm"
+  },
+  "CHION": {
+    "short_name": "CHION",
+    "long_name": "CHIONANTHUS VIRGINICA (CHIONANTHUS)",
+    "link": "c/chion.htm"
+  },
+  "CHLF": {
+    "short_name": "CHLF",
+    "long_name": "CHLOROFORMIUM (CHLOROFORMUM)",
+    "link": "c/chlf.htm"
+  },
+  "CHLOL": {
+    "short_name": "CHLOL",
+    "long_name": "CHLORALUM HYDRATUM (CHLORALUM)",
+    "link": "c/chlol.htm"
+  },
+  "CHLOR": {
+    "short_name": "CHLOR",
+    "long_name": "CHLORUM",
+    "link": "c/chlor.htm"
+  },
+  "CHOL": {
+    "short_name": "CHOL",
+    "long_name": "CHOLESTERINUM",
+    "link": "c/chol.htm"
+  },
+  "CHR-AC": {
+    "short_name": "CHR-AC",
+    "long_name": "CHROMICUM ACIDUM",
+    "link": "c/chr-ac.htm"
+  },
+  "CHRYSAR": {
+    "short_name": "CHRYSAR",
+    "long_name": "CHRYSAROBINUM",
+    "link": "c/chrysar.htm"
+  },
+  "CIC": {
+    "short_name": "CIC",
+    "long_name": "CICUTA VIROSA",
+    "link": "c/cic.htm"
+  },
+  "CIMIC": {
+    "short_name": "CIMIC",
+    "long_name": "CIMICIFUGA RACEMOSA (CIMICIFUGA - ACTAEA RACEMOSA - MACROTYS)",
+    "link": "c/cimic.htm"
+  },
+  "CIMX": {
+    "short_name": "CIMX",
+    "long_name": "CIMEX LECTULARIUS (CIMEX - ACANTHIA)",
+    "link": "c/cimx.htm"
+  },
+  "CINA": {
+    "short_name": "CINA",
+    "long_name": "CINA MARITIMA (CINA)",
+    "link": "c/cina.htm"
+  },
+  "CINE": {
+    "short_name": "CINE",
+    "long_name": "CINERARIA MARITIMA (CINERARIA)",
+    "link": "c/cine.htm"
+  },
+  "CINNB": {
+    "short_name": "CINNB",
+    "long_name": "CINNABARIS (MERCURIUS SULPHURATUS RUBER)",
+    "link": "c/cinnb.htm"
+  },
+  "CINNM": {
+    "short_name": "CINNM",
+    "long_name": "CINNAMOMUM CEYLANICUM (CINNAMOMUM)",
+    "link": "c/cinnm.htm"
+  },
+  "CIST": {
+    "short_name": "CIST",
+    "long_name": "CISTUS CANADENSIS",
+    "link": "c/cist.htm"
+  },
+  "CIT-V": {
+    "short_name": "CIT-V",
+    "long_name": "CITRUS VULGARIS",
+    "link": "c/cit-v.htm"
+  },
+  "CLEM": {
+    "short_name": "CLEM",
+    "long_name": "CLEMATIS ERECTA",
+    "link": "c/clem.htm"
+  },
+  "COB": {
+    "short_name": "COB",
+    "long_name": "COBALTUM METALLICUM (COBALTUM)",
+    "link": "c/cob.htm"
+  },
+  "COC-C": {
+    "short_name": "COC-C",
+    "long_name": "COCCUS CACTI",
+    "link": "c/coc-c.htm"
+  },
+  "COCA": {
+    "short_name": "COCA",
+    "long_name": "COCA-ERYTHROXYLON COCA",
+    "link": "c/coca.htm"
+  },
+  "COCAIN": {
+    "short_name": "COCAIN",
+    "long_name": "COCAINUM HYDROCHLORICUM (COCAINA)",
+    "link": "c/cocain.htm"
+  },
+  "COCC": {
+    "short_name": "COCC",
+    "long_name": "COCCULUS INDICUS (COCCULUS)",
+    "link": "c/cocc.htm"
+  },
+  "COCC-S": {
+    "short_name": "COCC-S",
+    "long_name": "COCCINELLA SEPTEMPUNCTATA",
+    "link": "c/cocc-s.htm"
+  },
+  "COCH": {
+    "short_name": "COCH",
+    "long_name": "COCHLEARIA ARMORACIA (ARMORACIA SATIVA)",
+    "link": "c/coch.htm"
+  },
+  "COD": { "short_name": "COD", "long_name": "CODEINUM", "link": "c/cod.htm" },
+  "COFF": {
+    "short_name": "COFF",
+    "long_name": "COFFEA CRUDA",
+    "link": "c/coff.htm"
+  },
+  "COLCH": {
+    "short_name": "COLCH",
+    "long_name": "COLCHICUM AUTUMNALE (COLCHICUM)",
+    "link": "c/colch.htm"
+  },
+  "COLL": {
+    "short_name": "COLL",
+    "long_name": "COLLINSONIA CANADENSIS",
+    "link": "c/coll.htm"
+  },
+  "COLOC": {
+    "short_name": "COLOC",
+    "long_name": "COLOCYNTHIS",
+    "link": "c/coloc.htm"
+  },
+  "CON": {
+    "short_name": "CON",
+    "long_name": "CONIUM MACULATUM (CONIUM)",
+    "link": "c/con-m.htm"
+  },
+  "COM": {
+    "short_name": "COM",
+    "long_name": "COMOCLADIA DENTATA",
+    "link": "c/com.htm"
+  },
+  "CONV": {
+    "short_name": "CONV",
+    "long_name": "CONVALLARIA MAJALIS",
+    "link": "c/conv.htm"
+  },
+  "COP": {
+    "short_name": "COP",
+    "long_name": "COPAIVA OFFICINALIS (COPAIVA)",
+    "link": "c/cop.htm"
+  },
+  "COR-R": {
+    "short_name": "COR-R",
+    "long_name": "CORALLIUM RUBRUM (CORALLIUM)",
+    "link": "c/cor-r.htm"
+  },
+  "CORH": {
+    "short_name": "CORH",
+    "long_name": "CORALLORHIZA ODONTORHIZA (CORALLORHIZA)",
+    "link": "c/corh.htm"
+  },
+  "CORN": {
+    "short_name": "CORN",
+    "long_name": "CORNUS CIRCINATA",
+    "link": "c/corn.htm"
+  },
+  "CORY": {
+    "short_name": "CORY",
+    "long_name": "CORYDALIS FORMOSA (CORYDALIS - DICENTRA CANADENSIS)",
+    "link": "c/cory.htm"
+  },
+  "COT": {
+    "short_name": "COT",
+    "long_name": "COTYLEDON UMBILICUS (COTYLEDON)",
+    "link": "c/cot.htm"
+  },
+  "CRAT": {
+    "short_name": "CRAT",
+    "long_name": "CRATAEGUS OXYACANTHA (CRATAEGUS)",
+    "link": "c/crat.htm"
+  },
+  "CROC": {
+    "short_name": "CROC",
+    "long_name": "CROCUS SATIVUS (CROCUS SATIA)",
+    "link": "c/croc.htm"
+  },
+  "CROT-H": {
+    "short_name": "CROT-H",
+    "long_name": "CROTALUS HORRIDUS",
+    "link": "c/crot-h.htm"
+  },
+  "CROT-T": {
+    "short_name": "CROT-T",
+    "long_name": "CROTON TIGLIUM",
+    "link": "c/crot-t.htm"
+  },
+  "CUB": {
+    "short_name": "CUB",
+    "long_name": "CUBEBA OFFICINALIS (CUBEBA)",
+    "link": "c/cub.htm"
+  },
+  "CUC-C": {
+    "short_name": "CUC-C",
+    "long_name": "CUCURBITA CITRULLUS",
+    "link": "c/cuc-c.htm"
+  },
+  "CUC-P": {
+    "short_name": "CUC-P",
+    "long_name": "CUCURBITA PEPO",
+    "link": "c/cuc-p.htm"
+  },
+  "CUND": {
+    "short_name": "CUND",
+    "long_name": "CUNDURANGO (CONDURANGO)",
+    "link": "c/cund.htm"
+  },
+  "CUPH": {
+    "short_name": "CUPH",
+    "long_name": "CUPHEA VISCOSISSIMA (CUPHEA)",
+    "link": "c/cuph.htm"
+  },
+  "CUPR": {
+    "short_name": "CUPR",
+    "long_name": "CUPRUM METALLICUM",
+    "link": "c/cupr.htm"
+  },
+  "CUPR-ACT": {
+    "short_name": "CUPR-ACT",
+    "long_name": "CUPRUM ACETICUM",
+    "link": "c/cupr-act.htm"
+  },
+  "CUPR-AR": {
+    "short_name": "CUPR-AR",
+    "long_name": "CUPRUM ARSENICOSUM",
+    "link": "c/cupr-ar.htm"
+  },
+  "CUR": {
+    "short_name": "CUR",
+    "long_name": "CURARE (WOORARI)",
+    "link": "c/cur.htm"
+  },
+  "CYCL": {
+    "short_name": "CYCL",
+    "long_name": "CYCLAMEN EUROPAEUM (CYCLAMEN)",
+    "link": "c/cycl.htm"
+  },
+  "CYPR": {
+    "short_name": "CYPR",
+    "long_name": "CYPRIPEDIUM PUBESCENS (CYPRIPEDIUM)",
+    "link": "c/cypr.htm"
+  },
+  "CYT-L": {
+    "short_name": "CYT-L",
+    "long_name": "CYTISUS LABURNUM (LABURNUM)",
+    "link": "c/cyt-l.htm"
+  },
+  "DAM": {
+    "short_name": "DAM",
+    "long_name": "DAMIANA (TURNERA)",
+    "link": "d/dam.htm"
+  },
+  "DAPH": {
+    "short_name": "DAPH",
+    "long_name": "DAPHNE INDICA",
+    "link": "d/daph.htm"
+  },
+  "DIG": {
+    "short_name": "DIG",
+    "long_name": "DIGITALIS PURPUREA (DIGITALIS)",
+    "link": "d/dig.htm"
+  },
+  "DIOS": {
+    "short_name": "DIOS",
+    "long_name": "DIOSCOREA VILLOSA",
+    "link": "d/dios.htm"
+  },
+  "DIOSM": {
+    "short_name": "DIOSM",
+    "long_name": "DIOSMA LINCARIS",
+    "link": "d/diosm.htm"
+  },
+  "DIPH": {
+    "short_name": "DIPH",
+    "long_name": "DIPHTHERINUM",
+    "link": "d/diph.htm"
+  },
+  "DOL": {
+    "short_name": "DOL",
+    "long_name": "DOLICHOS PRURIENS (DOLICHOS PURIENS - MUCUNA)",
+    "link": "d/dol.htm"
+  },
+  "DOR": {
+    "short_name": "DOR",
+    "long_name": "DORYPHORA DECEMLINEATA (DORYPHORA)",
+    "link": "d/dor.htm"
+  },
+  "DROS": {
+    "short_name": "DROS",
+    "long_name": "DROSERA ROTUNDIFOLIA (DROSERA)",
+    "link": "d/dros.htm"
+  },
+  "DUBO-M": {
+    "short_name": "DUBO-M",
+    "long_name": "DUBOISIA MYOPOROIDES (DUBOISIA)",
+    "link": "d/dubo-m.htm"
+  },
+  "DULC": {
+    "short_name": "DULC",
+    "long_name": "DULCAMARA",
+    "link": "d/dulc.htm"
+  },
+  "ECHI": {
+    "short_name": "ECHI",
+    "long_name": "ECHINACEA ANGUSTIFOLIA (ECHINACEA - RUDBECKIA)",
+    "link": "e/echi.htm"
+  },
+  "ELAPS": {
+    "short_name": "ELAPS",
+    "long_name": "ELAPS CORALLINUS",
+    "link": "e/elaps.htm"
+  },
+  "ELAT": {
+    "short_name": "ELAT",
+    "long_name": "ELATERIUM OFFICINARUM (ELATERIUM - ECBALIUM)",
+    "link": "e/elat.htm"
+  },
+  "EOS": {
+    "short_name": "EOS",
+    "long_name": "EOSINUM (EOSIN)",
+    "link": "e/eos.htm"
+  },
+  "EPIG": {
+    "short_name": "EPIG",
+    "long_name": "EPIGEA REPENS",
+    "link": "e/epig.htm"
+  },
+  "EPIPH": {
+    "short_name": "EPIPH",
+    "long_name": "EPIPHEGUS VIRGINIANA (EPIPHEGUS - OROBANCHE)",
+    "link": "e/epiph.htm"
+  },
+  "EQUIS-H": {
+    "short_name": "EQUIS-H",
+    "long_name": "EQUISETUM HYEMALE (EQUISETUM)",
+    "link": "e/equis-h.htm"
+  },
+  "ERECH": {
+    "short_name": "ERECH",
+    "long_name": "ERECHTHITES HIERACIFOLIA (ERECHTHITES)",
+    "link": "e/erech.htm"
+  },
+  "ERIG": {
+    "short_name": "ERIG",
+    "long_name": "ERIGERON CANADENSE (ERIGERON - LEPTILON CANADENSE)",
+    "link": "e/erig.htm"
+  },
+  "ERIO": {
+    "short_name": "ERIO",
+    "long_name": "ERIODYCTION CALIFORNICUM (ERIODICTYON)",
+    "link": "e/erio.htm"
+  },
+  "ERY-A": {
+    "short_name": "ERY-A",
+    "long_name": "ERYNGIUM AQUATICUM",
+    "link": "e/ery-a.htm"
+  },
+  "ESCH": {
+    "short_name": "ESCH",
+    "long_name": "ESCHSCHOLTZIA CALIFORNICA",
+    "link": "e/esch.htm"
+  },
+  "EUCAL": {
+    "short_name": "EUCAL",
+    "long_name": "EUCALYPTUS GLOBULUS",
+    "link": "e/eucal.htm"
+  },
+  "EUG": {
+    "short_name": "EUG",
+    "long_name": "EUGENIA JAMBOS (JAMBOSA VULGARIS)",
+    "link": "e/eug.htm"
+  },
+  "EUON-A": {
+    "short_name": "EUON-A",
+    "long_name": "EUONYMUS ATROPURPUREA",
+    "link": "e/euon-a.htm"
+  },
+  "EUP-A": {
+    "short_name": "EUP-A",
+    "long_name": "EUPATORIUM AROMATICUM",
+    "link": "e/eup-a.htm"
+  },
+  "EUP-PER": {
+    "short_name": "EUP-PER",
+    "long_name": "EUPATORIUM PERFOLIATUM",
+    "link": "e/eup-per.htm"
+  },
+  "EUP-PUR": {
+    "short_name": "EUP-PUR",
+    "long_name": "EUPATORIUM PURPUREUM",
+    "link": "e/eup-pur.htm"
+  },
+  "EUPH": {
+    "short_name": "EUPH",
+    "long_name": "EUPHORBIUM OFFICINARUM (EUPHORBIUM)",
+    "link": "e/euph.htm"
+  },
+  "EUPH-L": {
+    "short_name": "EUPH-L",
+    "long_name": "EUPHORBIA LATHYRIS",
+    "link": "e/euph-l.htm"
+  },
+  "EUPH-PO": {
+    "short_name": "EUPH-PO",
+    "long_name": "EUPHORBIA POLYCARPA (GOLONDRINA)",
+    "link": "e/euph-po.htm"
+  },
+  "EUPHR": {
+    "short_name": "EUPHR",
+    "long_name": "EUPHRASIA OFFICINALIS (EYEBRIGHT)",
+    "link": "e/euphr.htm"
+  },
+  "EUPI": {
+    "short_name": "EUPI",
+    "long_name": "EUPIONUM (EUPION)",
+    "link": "e/eupi.htm"
+  },
+  "FAB": {
+    "short_name": "FAB",
+    "long_name": "FABIANA IMBRICATA",
+    "link": "f/fab.htm"
+  },
+  "FAGO": {
+    "short_name": "FAGO",
+    "long_name": "FAGOPYRUM ESCULENTUM (FAGOPYRUM)",
+    "link": "f/fago.htm"
+  },
+  "FEL": { "short_name": "FEL", "long_name": "FEL TAURI", "link": "f/fel.htm" },
+  "FERR": {
+    "short_name": "FERR",
+    "long_name": "FERRUM METALLICUM",
+    "link": "f/ferr.htm"
+  },
+  "FERR-I": {
+    "short_name": "FERR-I",
+    "long_name": "FERRUM IODATUM",
+    "link": "f/ferr-i.htm"
+  },
+  "FERR-MA": {
+    "short_name": "FERR-MA",
+    "long_name": "FERRUM MAGNETICUM",
+    "link": "f/ferr-ma.htm"
+  },
+  "FERR-P": {
+    "short_name": "FERR-P",
+    "long_name": "FERRUM PHOSPHORICUM",
+    "link": "f/ferr-p.htm"
+  },
+  "FERR-PIC": {
+    "short_name": "FERR-PIC",
+    "long_name": "FERRUM PICRICUM",
+    "link": "f/ferr-pic.htm"
+  },
+  "FIC-R": {
+    "short_name": "FIC-R",
+    "long_name": "FICUS RELIGIOSA",
+    "link": "f/fic-r.htm"
+  },
+  "FIL": {
+    "short_name": "FIL",
+    "long_name": "FILIX MAS (ASPIDIUM)",
+    "link": "f/fil.htm"
+  },
+  "FL-AC": {
+    "short_name": "FL-AC",
+    "long_name": "FLUORICUM ACIDUM",
+    "link": "f/fl-ac.htm"
+  },
+  "FORM": {
+    "short_name": "FORM",
+    "long_name": "FORMICA RUFA (MYRMEXINE)",
+    "link": "f/form.htm"
+  },
+  "FORMAL": {
+    "short_name": "FORMAL",
+    "long_name": "FORMALINUM (FORMALIN)",
+    "link": "f/formal.htm"
+  },
+  "FRAG": {
+    "short_name": "FRAG",
+    "long_name": "FRAGARIA VESCA (FRAGARIA)",
+    "link": "f/frag.htm"
+  },
+  "FRANC": {
+    "short_name": "FRANC",
+    "long_name": "FRANCISCEA UNIFLORA (FRACISCEA)",
+    "link": "f/franc.htm"
+  },
+  "FRAX": {
+    "short_name": "FRAX",
+    "long_name": "FRAXINUS AMERICANA",
+    "link": "f/frax.htm"
+  },
+  "FUC": {
+    "short_name": "FUC",
+    "long_name": "FUCUS VESICULOSUS",
+    "link": "f/fuc.htm"
+  },
+  "FUCH": {
+    "short_name": "FUCH",
+    "long_name": "FUCHSINUM (FUCHSINA - MAGENTA)",
+    "link": "f/fuch.htm"
+  },
+  "FULI": {
+    "short_name": "FULI",
+    "long_name": "FULIGO LIGNI",
+    "link": "f/fuli.htm"
+  },
+  "GAL-AC": {
+    "short_name": "GAL-AC",
+    "long_name": "GALLICUM ACIDUM",
+    "link": "g/gal-ac.htm"
+  },
+  "GALA": {
+    "short_name": "GALA",
+    "long_name": "GALANTHUS NIVALIS",
+    "link": "g/gala.htm"
+  },
+  "GALI": {
+    "short_name": "GALI",
+    "long_name": "GALIUM APARINE",
+    "link": "g/gali.htm"
+  },
+  "GAMB": {
+    "short_name": "GAMB",
+    "long_name": "GAMBOGIA (GAMBOGIA - GARCINIA MORELLA)",
+    "link": "g/gamb.htm"
+  },
+  "GAUL": {
+    "short_name": "GAUL",
+    "long_name": "GAULTHERIA PROCUMBENS (GAULTHERIA)",
+    "link": "g/gaul.htm"
+  },
+  "GELS": {
+    "short_name": "GELS",
+    "long_name": "GELSEMIUM SEMPERVIRENS (GELSEMIUM)",
+    "link": "g/gels.htm"
+  },
+  "GENT-L": {
+    "short_name": "GENT-L",
+    "long_name": "GENTIANA LUTEA",
+    "link": "g/gent-l.htm"
+  },
+  "GER": {
+    "short_name": "GER",
+    "long_name": "GERANIUM MACULATUM",
+    "link": "g/ger.htm"
+  },
+  "GET": {
+    "short_name": "GET",
+    "long_name": "GETTYSBURG WATER",
+    "link": "g/get.htm"
+  },
+  "GINS": {
+    "short_name": "GINS",
+    "long_name": "GINSENG QUINQUEFOLIUM (GINSENG)",
+    "link": "g/gins.htm"
+  },
+  "GLON": {
+    "short_name": "GLON",
+    "long_name": "GLONOINUM",
+    "link": "g/glon.htm"
+  },
+  "GLYC": {
+    "short_name": "GLYC",
+    "long_name": "GLYCERINUM",
+    "link": "g/glyc.htm"
+  },
+  "GNAPH": {
+    "short_name": "GNAPH",
+    "long_name": "GNAPHALIUM POLYCEPHALUM (GNAPHALIUM)",
+    "link": "g/gnaph.htm"
+  },
+  "GOSS": {
+    "short_name": "GOSS",
+    "long_name": "GOSSYPIUM HERBACEUM (GOSSYPIUM)",
+    "link": "g/goss.htm"
+  },
+  "GRAN": {
+    "short_name": "GRAN",
+    "long_name": "GRANATUM",
+    "link": "g/gran.htm"
+  },
+  "GRAPH": {
+    "short_name": "GRAPH",
+    "long_name": "GRAPHITES",
+    "link": "g/graph.htm"
+  },
+  "GRAT": {
+    "short_name": "GRAT",
+    "long_name": "GRATIOLA OFFICINALIS (GRATIOLA)",
+    "link": "g/grat.htm"
+  },
+  "GRIN": {
+    "short_name": "GRIN",
+    "long_name": "GRINDELIA ROBUSTA (GRINDELIA)",
+    "link": "g/grin.htm"
+  },
+  "GUA": { "short_name": "GUA", "long_name": "GUACO", "link": "g/gua.htm" },
+  "GUAJ": {
+    "short_name": "GUAJ",
+    "long_name": "GUAJACUM OFFICINALE (GUAIACUM)",
+    "link": "g/guaj.htm"
+  },
+  "GUAR": {
+    "short_name": "GUAR",
+    "long_name": "GUARANA (PAULLINIA SORBILIS)",
+    "link": "g/guar.htm"
+  },
+  "GUARE": {
+    "short_name": "GUARE",
+    "long_name": "GUAREA TRICHILOIDES (GUAREA)",
+    "link": "g/guare.htm"
+  },
+  "GYMNO": {
+    "short_name": "GYMNO",
+    "long_name": "GYMNOCLADUS CANADENSIS (GYMNOCLADUS)",
+    "link": "g/gymno.htm"
+  },
+  "HAEM": {
+    "short_name": "HAEM",
+    "long_name": "HAEMATOXYLON CAMPECHIANUM (HAEMATOXYLON)",
+    "link": "h/haem.htm"
+  },
+  "HAM": {
+    "short_name": "HAM",
+    "long_name": "HAMAMELIS VIRGINIANA (HAMAMELIS VIRGINICA)",
+    "link": "h/ham.htm"
+  },
+  "HECLA": {
+    "short_name": "HECLA",
+    "long_name": "HECLA LAVA (HEKLA LAVA)",
+    "link": "h/hecla.htm"
+  },
+  "HEDEO": {
+    "short_name": "HEDEO",
+    "long_name": "HEDEOMA PULEGIOIDES (HEDEOMA)",
+    "link": "h/hedeo.htm"
+  },
+  "HELIA": {
+    "short_name": "HELIA",
+    "long_name": "HELIANTHUS ANNUUS (HELIANTHUS)",
+    "link": "h/helia.htm"
+  },
+  "HELL": {
+    "short_name": "HELL",
+    "long_name": "HELLEBORUS NIGER (HELLEBORUS)",
+    "link": "h/hell.htm"
+  },
+  "HELO": {
+    "short_name": "HELO",
+    "long_name": "HELODERMA",
+    "link": "h/helo.htm"
+  },
+  "HELON": {
+    "short_name": "HELON",
+    "long_name": "HELONIAS DIOICA (HELONIAS - CHAMAELIRIUM)",
+    "link": "h/helon.htm"
+  },
+  "HEP": {
+    "short_name": "HEP",
+    "long_name": "HEPAR SULPHUR (HEPAR SULPHURIS CALCAREUM)",
+    "link": "h/hep.htm"
+  },
+  "HEPAT": {
+    "short_name": "HEPAT",
+    "long_name": "HEPATICA TRILOBA (HEPATICA)",
+    "link": "h/hepat.htm"
+  },
+  "HERA": {
+    "short_name": "HERA",
+    "long_name": "HERACLEUM SPHONDYLIUM (HERACLEUM - BRANCA URSINA)",
+    "link": "h/hera.htm"
+  },
+  "HIP-AC": {
+    "short_name": "HIP-AC",
+    "long_name": "HIPPURICUM ACIDUM (HIPPURIC ACID)",
+    "link": "h/hip-ac.htm"
+  },
+  "HIPP": {
+    "short_name": "HIPP",
+    "long_name": "HIPPOMANES",
+    "link": "h/hipp.htm"
+  },
+  "HIPPOZ": {
+    "short_name": "HIPPOZ",
+    "long_name": "HIPPOZAENINUM (HIPPOZAENIUM)",
+    "link": "h/hippoz.htm"
+  },
+  "HOM": { "short_name": "HOM", "long_name": "HOMARUS", "link": "h/hom.htm" },
+  "HURA": {
+    "short_name": "HURA",
+    "long_name": "HURA BRASILIENSIS",
+    "link": "h/hura.htm"
+  },
+  "HYDR": {
+    "short_name": "HYDR",
+    "long_name": "HYDRASTIS CANADENSIS (HYDRASTIS)",
+    "link": "h/hydr.htm"
+  },
+  "HYDR-AC": {
+    "short_name": "HYDR-AC",
+    "long_name": "HYDROCYANICUM ACIDUM (HYDROCYANIC ACID)",
+    "link": "h/hydr-ac.htm"
+  },
+  "HYDRANG": {
+    "short_name": "HYDRANG",
+    "long_name": "HYDRANGEA ARBORESCENS (HYDRANGEA)",
+    "link": "h/hydrang.htm"
+  },
+  "HYDRC": {
+    "short_name": "HYDRC",
+    "long_name": "HYDROCOTYLE ASIATICA (HYDROCOTYLE)",
+    "link": "h/hydrc.htm"
+  },
+  "HYOS": {
+    "short_name": "HYOS",
+    "long_name": "HYOSCYAMUS NIGER (HYOSCYAMUS)",
+    "link": "h/hyos.htm"
+  },
+  "HYPER": {
+    "short_name": "HYPER",
+    "long_name": "HYPERICUM PERFORATUM (HYPERICUM)",
+    "link": "h/hyper.htm"
+  },
+  "IBER": {
+    "short_name": "IBER",
+    "long_name": "IBERIS AMARA (IBERIS)",
+    "link": "i/iber.htm"
+  },
+  "ICHTH": {
+    "short_name": "ICHTH",
+    "long_name": "ICHTHYOLUM",
+    "link": "i/ichth.htm"
+  },
+  "ICTOD": {
+    "short_name": "ICTOD",
+    "long_name": "ICTODES FOETIDA (POTHOS FOETIDUS)",
+    "link": "i/ictod.htm"
+  },
+  "IGN": {
+    "short_name": "IGN",
+    "long_name": "IGNATIA AMARA (IGNATIA)",
+    "link": "i/ign.htm"
+  },
+  "ILX-A": {
+    "short_name": "ILX-A",
+    "long_name": "ILEX AQUIFOLIUM",
+    "link": "i/ilx-a.htm"
+  },
+  "IND": {
+    "short_name": "IND",
+    "long_name": "INDIUM METALLICUM (INDIUM)",
+    "link": "i/ind.htm"
+  },
+  "INDG": {
+    "short_name": "INDG",
+    "long_name": "INDIGO TINCTORIA (INDIGO)",
+    "link": "i/indg.htm"
+  },
+  "INDOL": {
+    "short_name": "INDOL",
+    "long_name": "INDOLUM (INDOL)",
+    "link": "i/indol.htm"
+  },
+  "INS": {
+    "short_name": "INS",
+    "long_name": "INSULINUM (INSULIN)",
+    "link": "i/ins.htm"
+  },
+  "INUL": {
+    "short_name": "INUL",
+    "long_name": "INULA HELENIUM (INULA)",
+    "link": "i/inul.htm"
+  },
+  "IOD": {
+    "short_name": "IOD",
+    "long_name": "IODIUM (IODUM)",
+    "link": "i/iod.htm"
+  },
+  "IODOF": {
+    "short_name": "IODOF",
+    "long_name": "IODOFORMIUM (IODOFORMUM)",
+    "link": "i/iodof.htm"
+  },
+  "IP": {
+    "short_name": "IP",
+    "long_name": "IPECACUANHA (IPECA)",
+    "link": "i/ip.htm"
+  },
+  "IRID-MET": {
+    "short_name": "IRID-MET",
+    "long_name": "IRIDIUM METALLICUM (IRIDIUM)",
+    "link": "i/irid-met.htm"
+  },
+  "IRIS": {
+    "short_name": "IRIS",
+    "long_name": "IRIS VERSICOLOR",
+    "link": "i/iris.htm"
+  },
+  "JAB": {
+    "short_name": "JAB",
+    "long_name": "JABORANDI (PILOCARPUS MICROPHYLLUS)",
+    "link": "j/jab.htm"
+  },
+  "JAC-C": {
+    "short_name": "JAC-C",
+    "long_name": "JACARANDA CAROBA (JACARANDA)",
+    "link": "j/jac-c.htm"
+  },
+  "JAL": {
+    "short_name": "JAL",
+    "long_name": "JALAPA (EXOGONIUM PURGA)",
+    "link": "j/jal.htm"
+  },
+  "JATR": {
+    "short_name": "JATR",
+    "long_name": "JATROPHA CURCAS (JATROPHA)",
+    "link": "j/jatr.htm"
+  },
+  "JOAN": {
+    "short_name": "JOAN",
+    "long_name": "JOANESIA ASOCA (JONOSIA ASOCA)",
+    "link": "j/joan.htm"
+  },
+  "JUG-C": {
+    "short_name": "JUG-C",
+    "long_name": "JUGLANS CINEREA",
+    "link": "j/jug-c.htm"
+  },
+  "JUG-R": {
+    "short_name": "JUG-R",
+    "long_name": "JUGLANS REGIA",
+    "link": "j/jug-r.htm"
+  },
+  "JUNC-E": {
+    "short_name": "JUNC-E",
+    "long_name": "JUNCUS EFFUSUS",
+    "link": "j/junc-e.htm"
+  },
+  "JUNI-C": {
+    "short_name": "JUNI-C",
+    "long_name": "JUNIPERUS COMMUNIS",
+    "link": "j/juni-c.htm"
+  },
+  "JUST": {
+    "short_name": "JUST",
+    "long_name": "JUSTICIA ADHATODA (JUSTICIA ADHATODA BASAKA)",
+    "link": "j/just.htm"
+  },
+  "KALI-AR": {
+    "short_name": "KALI-AR",
+    "long_name": "KALIUM ARSENICOSUM (KALI ARSENICUM)",
+    "link": "k/kali-ar.htm"
+  },
+  "KALI-BI": {
+    "short_name": "KALI-BI",
+    "long_name": "KALIUM BICHROMICUM (KALI BICHROMICUM)",
+    "link": "k/kali-bi.htm"
+  },
+  "KALI-BR": {
+    "short_name": "KALI-BR",
+    "long_name": "KALIUM BROMATUM (KALI BROMATUM)",
+    "link": "k/kali-br.htm"
+  },
+  "KALI-C": {
+    "short_name": "KALI-C",
+    "long_name": "KALIUM CARBONICUM (KALI CARBONICUM)",
+    "link": "k/kali-c.htm"
+  },
+  "KALI-CHL": {
+    "short_name": "KALI-CHL",
+    "long_name": "KALIUM CHLORICUM (KALI CHLORICUM)",
+    "link": "k/kali-chl.htm"
+  },
+  "KALI-CY": {
+    "short_name": "KALI-CY",
+    "long_name": "KALIUM CYANATUM (KALI CYANATUM)",
+    "link": "k/kali-cy.htm"
+  },
+  "KALI-I": {
+    "short_name": "KALI-I",
+    "long_name": "KALIUM IODATUM (KALI HYDRIODICUM)",
+    "link": "k/kali-i.htm"
+  },
+  "KALI-M": {
+    "short_name": "KALI-M",
+    "long_name": "KALIUM MURIATICUM (KALI MURIATICUM)",
+    "link": "k/kali-m.htm"
+  },
+  "KALI-N": {
+    "short_name": "KALI-N",
+    "long_name": "KALIUM NITRICUM (KALI NITRICUM - NITRUM)",
+    "link": "k/kali-n.htm"
+  },
+  "KALI-P": {
+    "short_name": "KALI-P",
+    "long_name": "KALIUM PHOSPHORICUM (KALI PHOSPHORICUM)",
+    "link": "k/kali-p.htm"
+  },
+  "KALI-PER": {
+    "short_name": "KALI-PER",
+    "long_name": "KALIUM PERMANGANATUM (KALI PERMANGANICUM)",
+    "link": "k/kali-per.htm"
+  },
+  "KALI-S": {
+    "short_name": "KALI-S",
+    "long_name": "KALIUM SULPHURICUM (KALI SULPHURICUM)",
+    "link": "k/kali-s.htm"
+  },
+  "KALI-SIL": {
+    "short_name": "KALI-SIL",
+    "long_name": "KALIUM SILICICUM (KALI SILICATUM)",
+    "link": "k/kali-sil.htm"
+  },
+  "KALM": {
+    "short_name": "KALM",
+    "long_name": "KALMIA LATIFOLIA",
+    "link": "k/kalm.htm"
+  },
+  "KAOL": {
+    "short_name": "KAOL",
+    "long_name": "KAOLINUM (KAOLIN)",
+    "link": "k/kaol.htm"
+  },
+  "KOLA": {
+    "short_name": "KOLA",
+    "long_name": "KOLA (STERCULIA)",
+    "link": "k/kola.htm"
+  },
+  "KOU": {
+    "short_name": "KOU",
+    "long_name": "KOUSSO (KOUSSO - BRAYERA)",
+    "link": "k/kou.htm"
+  },
+  "KREOS": {
+    "short_name": "KREOS",
+    "long_name": "KREOSOTUM",
+    "link": "k/kreos.htm"
+  },
+  "LAC-AC": {
+    "short_name": "LAC-AC",
+    "long_name": "LACTICUM ACIDUM",
+    "link": "l/lac-ac.htm"
+  },
+  "LAC-C": {
+    "short_name": "LAC-C",
+    "long_name": "LAC CANINUM",
+    "link": "l/lac-c.htm"
+  },
+  "LAC-D": {
+    "short_name": "LAC-D",
+    "long_name": "LAC VACCINUM DEFLORATUM (LAC DEFLORATUM)",
+    "link": "l/lac-d.htm"
+  },
+  "LACH": {
+    "short_name": "LACH",
+    "long_name": "LACHESIS MUTUS (LACHESIS)",
+    "link": "l/lach.htm"
+  },
+  "LACHN": {
+    "short_name": "LACHN",
+    "long_name": "LACHNANTHES TINCTORIA (LACHNANTHES)",
+    "link": "l/lachn.htm"
+  },
+  "LACT-V": {
+    "short_name": "LACT-V",
+    "long_name": "LACTUCA VIROSA",
+    "link": "l/lact-v.htm"
+  },
+  "LAM": {
+    "short_name": "LAM",
+    "long_name": "LAMIUM ALBUM (LAMIUM)",
+    "link": "l/lam.htm"
+  },
+  "LAP-A": {
+    "short_name": "LAP-A",
+    "long_name": "LAPIS ALBUS",
+    "link": "l/lap-a.htm"
+  },
+  "LAPPA": {
+    "short_name": "LAPPA",
+    "long_name": "LAPPA ARCTIUM",
+    "link": "l/lappa.htm"
+  },
+  "LAT-M": {
+    "short_name": "LAT-M",
+    "long_name": "LATRODECTUS MACTANS",
+    "link": "l/lat-m.htm"
+  },
+  "LATH": {
+    "short_name": "LATH",
+    "long_name": "LATHYRUS SATIVUS (LATHYRUS)",
+    "link": "l/lath.htm"
+  },
+  "LAUR": {
+    "short_name": "LAUR",
+    "long_name": "LAUROCERASUS",
+    "link": "l/laur.htm"
+  },
+  "LEC": {
+    "short_name": "LEC",
+    "long_name": "LECITHINUM (LECITHIN)",
+    "link": "l/lec.htm"
+  },
+  "LED": {
+    "short_name": "LED",
+    "long_name": "LEDUM PALUSTRE (LEDUM)",
+    "link": "l/led.htm"
+  },
+  "LEM-M": {
+    "short_name": "LEM-M",
+    "long_name": "LEMNA MINOR",
+    "link": "l/lem-m.htm"
+  },
+  "LEPI": {
+    "short_name": "LEPI",
+    "long_name": "LEPIDIUM BONARIENSE",
+    "link": "l/lepi.htm"
+  },
+  "LEPT": {
+    "short_name": "LEPT",
+    "long_name": "LEPTANDRA VIRGINICA (LEPTANDRA)",
+    "link": "l/lept.htm"
+  },
+  "LIAT": {
+    "short_name": "LIAT",
+    "long_name": "LIATRIS SPICATA (LIATRIS SPICATA - SERRATULA)",
+    "link": "l/liat.htm"
+  },
+  "LIL-T": {
+    "short_name": "LIL-T",
+    "long_name": "LILIUM TIGRINUM",
+    "link": "l/lil-t.htm"
+  },
+  "LIM": {
+    "short_name": "LIM",
+    "long_name": "LIMULUS CYCLOPS (LIMULUS - XIPHOSURA)",
+    "link": "l/lim.htm"
+  },
+  "LINA": {
+    "short_name": "LINA",
+    "long_name": "LINARIA VULGARIS (LINARIA)",
+    "link": "l/lina.htm"
+  },
+  "LINU-U": {
+    "short_name": "LINU-U",
+    "long_name": "LINUM USITATISSIMUM",
+    "link": "l/linu-u.htm"
+  },
+  "LITH-C": {
+    "short_name": "LITH-C",
+    "long_name": "LITHIUM CARBONICUM",
+    "link": "l/lith-c.htm"
+  },
+  "LOB": {
+    "short_name": "LOB",
+    "long_name": "LOBELIA INFLATA",
+    "link": "l/lob.htm"
+  },
+  "LOB-P": {
+    "short_name": "LOB-P",
+    "long_name": "LOBELIA PURPURASCENS",
+    "link": "l/lob-p.htm"
+  },
+  "LOL": {
+    "short_name": "LOL",
+    "long_name": "LOLEUM TEMULENTUM (LOLIUM TUMULENTUM)",
+    "link": "l/lol.htm"
+  },
+  "LON-X": {
+    "short_name": "LON-X",
+    "long_name": "LONICERA XYLOSTEUM",
+    "link": "l/lon-x.htm"
+  },
+  "LUP": {
+    "short_name": "LUP",
+    "long_name": "LUPULUS HUMULUS",
+    "link": "l/lup.htm"
+  },
+  "LYC": {
+    "short_name": "LYC",
+    "long_name": "LYCOPODIUM CLAVATUM (LYCOPODIUM)",
+    "link": "l/lyc.htm"
+  },
+  "LYCPR": {
+    "short_name": "LYCPR",
+    "long_name": "LYCOPERSICUM ESCULENTUM (SOLANUM LYCOPERSICUM)",
+    "link": "l/lycpr.htm"
+  },
+  "LYCPS-V": {
+    "short_name": "LYCPS-V",
+    "long_name": "LYCOPUS VIRGINICUS",
+    "link": "l/lycps-v.htm"
+  },
+  "LYSS": {
+    "short_name": "LYSS",
+    "long_name": "LYSSINUM (HYDROPHOBINUM)",
+    "link": "l/lyss.htm"
+  },
+  "MAG-C": {
+    "short_name": "MAG-C",
+    "long_name": "MAGNESIUM CARBONICUM (MAGNESIA CARBONICA)",
+    "link": "m/mag-c.htm"
+  },
+  "MAG-M": {
+    "short_name": "MAG-M",
+    "long_name": "MAGNESIUM MURIATICUM (MAGNESIA MURIATICA)",
+    "link": "m/mag-m.htm"
+  },
+  "MAG-P": {
+    "short_name": "MAG-P",
+    "long_name": "MAGNESIUM PHOSPHORICUM (MAGNESIA PHOSPHORICA)",
+    "link": "m/mag-p.htm"
+  },
+  "MAG-S": {
+    "short_name": "MAG-S",
+    "long_name": "MAGNESIUM SULPHURICUM (MAGNESIA SULPHURICA)",
+    "link": "m/mag-s.htm"
+  },
+  "MAGN-GR": {
+    "short_name": "MAGN-GR",
+    "long_name": "MAGNOLIA GRANDIFLORA",
+    "link": "m/magn-gr.htm"
+  },
+  "MALAND": {
+    "short_name": "MALAND",
+    "long_name": "MALANDRINUM",
+    "link": "m/maland.htm"
+  },
+  "MANC": {
+    "short_name": "MANC",
+    "long_name": "MANCINELLA",
+    "link": "m/manc.htm"
+  },
+  "MANG-ACT": {
+    "short_name": "MANG-ACT",
+    "long_name": "MANGANUM ACETICUM",
+    "link": "m/mang-act.htm"
+  },
+  "MANGI": {
+    "short_name": "MANGI",
+    "long_name": "MANGIFERA INDICA",
+    "link": "m/mangi.htm"
+  },
+  "MED": {
+    "short_name": "MED",
+    "long_name": "MEDORRHINUM",
+    "link": "m/med.htm"
+  },
+  "MEDUS": {
+    "short_name": "MEDUS",
+    "long_name": "MEDUSA",
+    "link": "m/medus.htm"
+  },
+  "MEL-C-S": {
+    "short_name": "MEL-C-S",
+    "long_name": "MEL CUM SALE",
+    "link": "m/mel-c-s.htm"
+  },
+  "MELI": {
+    "short_name": "MELI",
+    "long_name": "MELILOTUS OFFICINALIS (MELILOTUS)",
+    "link": "m/meli.htm"
+  },
+  "MENIS": {
+    "short_name": "MENIS",
+    "long_name": "MENISPERMUM CANADENSE (MENISPERMUM)",
+    "link": "m/menis.htm"
+  },
+  "MENTH": {
+    "short_name": "MENTH",
+    "long_name": "MENTHA PIPERITA",
+    "link": "m/menth.htm"
+  },
+  "MENTHO": {
+    "short_name": "MENTHO",
+    "long_name": "MENTHOLUM",
+    "link": "m/mentho.htm"
+  },
+  "MENY": {
+    "short_name": "MENY",
+    "long_name": "MENYANTHES TRIFOLIATA (MENYANTHES)",
+    "link": "m/meny.htm"
+  },
+  "MEPH": {
+    "short_name": "MEPH",
+    "long_name": "MEPHITIS PUTORIUS (MEPHITIS)",
+    "link": "m/meph.htm"
+  },
+  "MERC": {
+    "short_name": "MERC",
+    "long_name": "MERCURIUS SOLUBILIS (MERCURIUS - HYDRARGYRUM)",
+    "link": "m/merc.htm"
+  },
+  "MERC-C": {
+    "short_name": "MERC-C",
+    "long_name": "MERCURIUS CORROSIVUS",
+    "link": "m/merc-c.htm"
+  },
+  "MERC-CY": {
+    "short_name": "MERC-CY",
+    "long_name": "MERCURIUS CYANATUS",
+    "link": "m/merc-cy.htm"
+  },
+  "MERC-D": {
+    "short_name": "MERC-D",
+    "long_name": "MERCURIUS DULCIS",
+    "link": "m/merc-d.htm"
+  },
+  "MERC-I-F": {
+    "short_name": "MERC-I-F",
+    "long_name": "MERCURIUS IODATUS FLAVUS",
+    "link": "m/merc-i-f.htm"
+  },
+  "MERC-I-R": {
+    "short_name": "MERC-I-R",
+    "long_name": "MERCURIUS IODATUS RUBER",
+    "link": "m/merc-i-r.htm"
+  },
+  "MERC-SUL": {
+    "short_name": "MERC-SUL",
+    "long_name": "MERCURIUS SULPHURICUS, DRARG, OXYD, SUB-SULPH",
+    "link": "m/merc-sul.htm"
+  },
+  "MERL": {
+    "short_name": "MERL",
+    "long_name": "MERCURIALIS PERENNIS",
+    "link": "m/merl.htm"
+  },
+  "METHYL": {
+    "short_name": "METHYL",
+    "long_name": "METHYLENUM COERULEUM (METHYLENE BLUE)",
+    "link": "m/methyl.htm"
+  },
+  "MEZ": { "short_name": "MEZ", "long_name": "MEZEREUM", "link": "m/mez.htm" },
+  "MICR": {
+    "short_name": "MICR",
+    "long_name": "MICROMERIA DOUGLASII (MICROMERIA)",
+    "link": "m/micr.htm"
+  },
+  "MILL": {
+    "short_name": "MILL",
+    "long_name": "MILLEFOLIUM",
+    "link": "m/mill.htm"
+  },
+  "MIT": {
+    "short_name": "MIT",
+    "long_name": "MITCHELLA REPENS (MITCHELLA)",
+    "link": "m/mit.htm"
+  },
+  "MOM-B": {
+    "short_name": "MOM-B",
+    "long_name": "MOMORDICA BALSAMICA",
+    "link": "m/mom-b.htm"
+  },
+  "MORPH": {
+    "short_name": "MORPH",
+    "long_name": "MORPHINUM",
+    "link": "m/morph.htm"
+  },
+  "MOSCH": {
+    "short_name": "MOSCH",
+    "long_name": "MOSCHUS",
+    "link": "m/mosch.htm"
+  },
+  "MUR-AC": {
+    "short_name": "MUR-AC",
+    "long_name": "MURIATICUM ACIDUM",
+    "link": "m/mur-ac.htm"
+  },
+  "MURX": {
+    "short_name": "MURX",
+    "long_name": "MUREX PURPUREA (MUREX)",
+    "link": "m/murx.htm"
+  },
+  "MYGAL": {
+    "short_name": "MYGAL",
+    "long_name": "MYGALE LASIODORA",
+    "link": "m/mygal.htm"
+  },
+  "MYOS-S": {
+    "short_name": "MYOS-S",
+    "long_name": "MYOSOTIS SYMPHYTIFOLIA (MYOSOTIS)",
+    "link": "m/myos-s.htm"
+  },
+  "MYRIC": {
+    "short_name": "MYRIC",
+    "long_name": "MYRICA CERIFERA (MYRICA)",
+    "link": "m/myric.htm"
+  },
+  "MYRIS": {
+    "short_name": "MYRIS",
+    "long_name": "MYRISTICA SEBIFERA",
+    "link": "m/myris.htm"
+  },
+  "MYRT-C": {
+    "short_name": "MYRT-C",
+    "long_name": "MYRTUS COMMUNIS",
+    "link": "m/myrt-c.htm"
+  },
+  "NAJA": {
+    "short_name": "NAJA",
+    "long_name": "NAJA TRIPUDIANS",
+    "link": "n/naja.htm"
+  },
+  "NAPH": {
+    "short_name": "NAPH",
+    "long_name": "NAPHTHALINUM (NAPHTHALINE)",
+    "link": "n/naph.htm"
+  },
+  "NARC-PS": {
+    "short_name": "NARC-PS",
+    "long_name": "NARCISSUS PSEUDONARCISSUS (NARCISSUS)",
+    "link": "n/narc-ps.htm"
+  },
+  "NAT-AR": {
+    "short_name": "NAT-AR",
+    "long_name": "NATRIUM ARSENICOSUM (NATRUM ARSENICUM)",
+    "link": "n/nat-ar.htm"
+  },
+  "NAT-C": {
+    "short_name": "NAT-C",
+    "long_name": "NATRIUM CARBONICUM (NATRUM CARBONICUM)",
+    "link": "n/nat-c.htm"
+  },
+  "NAT-HCHL": {
+    "short_name": "NAT-HCHL",
+    "long_name": "NATRIUM HYPOCHLOROSUM (NATRUM CHLORATUM)",
+    "link": "n/nat-hchl.htm"
+  },
+  "NAT-M": {
+    "short_name": "NAT-M",
+    "long_name": "NATRIUM MURIATICUM (NATRUM MURIATICUM)",
+    "link": "n/nat-m.htm"
+  },
+  "NAT-N": {
+    "short_name": "NAT-N",
+    "long_name": "NATRIUM NITRICUM (NATRUM NITRICUM)",
+    "link": "n/nat-n.htm"
+  },
+  "NAT-P": {
+    "short_name": "NAT-P",
+    "long_name": "NATRIUM PHOSPHORICUM",
+    "link": "n/nat-p.htm"
+  },
+  "NAT-S": {
+    "short_name": "NAT-S",
+    "long_name": "NATRIUM SULPHURICUM (NATRUM SULPHURICUM)",
+    "link": "n/nat-s.htm"
+  },
+  "NAT-SAL": {
+    "short_name": "NAT-SAL",
+    "long_name": "NATRIUM SALICYLICUM (NATRUM SALICYLICUM)",
+    "link": "n/nat-sal.htm"
+  },
+  "NICC-MET": {
+    "short_name": "NICC-MET",
+    "long_name": "NICCOLUM METALLICUM (NICCOLUM)",
+    "link": "n/nicc-met.htm"
+  },
+  "NICC-S": {
+    "short_name": "NICC-S",
+    "long_name": "NICCOLUM SULPHURICUM",
+    "link": "n/nicc-s.htm"
+  },
+  "NIT-AC": {
+    "short_name": "NIT-AC",
+    "long_name": "NITRICUM ACIDUM",
+    "link": "n/nit-ac.htm"
+  },
+  "NIT-M-AC": {
+    "short_name": "NIT-M-AC",
+    "long_name": "NITROMURIATICUM ACIDUM (NITRO-MURIATIC ACID)",
+    "link": "n/nit-m-ac.htm"
+  },
+  "NIT-S-D": {
+    "short_name": "NIT-S-D",
+    "long_name": "NITRI SPIRITUS DULCIS",
+    "link": "n/nit-s-d.htm"
+  },
+  "NUPH": {
+    "short_name": "NUPH",
+    "long_name": "NUPHAR LUTEUM",
+    "link": "n/nuph.htm"
+  },
+  "NUX-M": {
+    "short_name": "NUX-M",
+    "long_name": "NUX MOSCHATA",
+    "link": "n/nux-m.htm"
+  },
+  "NUX-V": {
+    "short_name": "NUX-V",
+    "long_name": "NUX VOMICA",
+    "link": "n/nux-v.htm"
+  },
+  "NYCT": {
+    "short_name": "NYCT",
+    "long_name": "NYCTANTHES ARBOR TRISTIS",
+    "link": "n/nyct.htm"
+  },
+  "OCI": {
+    "short_name": "OCI",
+    "long_name": "OCIMUM CANUM",
+    "link": "o/oci.htm"
+  },
+  "OENA": {
+    "short_name": "OENA",
+    "long_name": "OENANTHE CROCATA",
+    "link": "o/oena.htm"
+  },
+  "OL-AN": {
+    "short_name": "OL-AN",
+    "long_name": "OLEUM ANIMALE AETHEREUM (OLEUM ANIMALE)",
+    "link": "o/ol-an.htm"
+  },
+  "OL-J": {
+    "short_name": "OL-J",
+    "long_name": "OLEUM JECORIS ASELLI",
+    "link": "o/ol-j.htm"
+  },
+  "OL-SANT": {
+    "short_name": "OL-SANT",
+    "long_name": "OLEUM SANTALI",
+    "link": "o/ol-sant.htm"
+  },
+  "OLND": {
+    "short_name": "OLND",
+    "long_name": "OLEANDER (NERIUM ODORUM)",
+    "link": "o/olnd.htm"
+  },
+  "ONIS": {
+    "short_name": "ONIS",
+    "long_name": "ONISCUS ASELLUS (MILLEPEDES)",
+    "link": "o/onis.htm"
+  },
+  "ONOS": {
+    "short_name": "ONOS",
+    "long_name": "ONOSMODIUM VIRGINIANUM (ONOSMODIUM)",
+    "link": "o/onos.htm"
+  },
+  "OP": {
+    "short_name": "OP",
+    "long_name": "OPIUM (PAPAVER SOMNIFERUM)",
+    "link": "o/op.htm"
+  },
+  "OPER": {
+    "short_name": "OPER",
+    "long_name": "OPERCULINA TURPENTHUM (OPERCULINA TURPETHUM)",
+    "link": "o/oper.htm"
+  },
+  "OPUN-F": {
+    "short_name": "OPUN-F",
+    "long_name": "OPUNTIA FICUS (OPUNTIA-FICUS INDICA)",
+    "link": "o/opun-f.htm"
+  },
+  "OREO": {
+    "short_name": "OREO",
+    "long_name": "OREODAPHNE CALIFORNICA (OREODAPHNE)",
+    "link": "o/oreo.htm"
+  },
+  "ORIG": {
+    "short_name": "ORIG",
+    "long_name": "ORIGANUM MAJORANA (ORIGANUM)",
+    "link": "o/orig.htm"
+  },
+  "ORNI": {
+    "short_name": "ORNI",
+    "long_name": "ORNITHOGALUM UMBELLATUM",
+    "link": "o/orni.htm"
+  },
+  "OSM": { "short_name": "OSM", "long_name": "OSMIUM", "link": "o/osm.htm" },
+  "OST": {
+    "short_name": "OST",
+    "long_name": "OSTRYA VIRGINICA",
+    "link": "o/ost.htm"
+  },
+  "OV": {
+    "short_name": "OV",
+    "long_name": "OVININUM (OOPHORINUM)",
+    "link": "o/ov.htm"
+  },
+  "OVI-P": {
+    "short_name": "OVI-P",
+    "long_name": "OVI GALLINAE PELLICULA",
+    "link": "o/ovi-p.htm"
+  },
+  "OX-AC": {
+    "short_name": "OX-AC",
+    "long_name": "OXALICUM ACIDUM",
+    "link": "o/ox-ac.htm"
+  },
+  "OXYD": {
+    "short_name": "OXYD",
+    "long_name": "OXYDENDRON ARBOREUM (OXYDENDRON - ANDROMEDA ARBOREA)",
+    "link": "o/oxyd.htm"
+  },
+  "OXYT": {
+    "short_name": "OXYT",
+    "long_name": "OXYTROPIS LAMBERTI (OXYTROPIS)",
+    "link": "o/oxyt.htm"
+  },
+  "PAEON": {
+    "short_name": "PAEON",
+    "long_name": "PAEONIA OFFICINALIS (PAEONIA)",
+    "link": "p/paeon.htm"
+  },
+  "PALL": {
+    "short_name": "PALL",
+    "long_name": "PALLADIUM METALLICUM (PALLADIUM)",
+    "link": "p/pall.htm"
+  },
+  "PAR": {
+    "short_name": "PAR",
+    "long_name": "PARIS QUADRIFOLIA",
+    "link": "p/par.htm"
+  },
+  "PARAF": {
+    "short_name": "PARAF",
+    "long_name": "PARAFFINUM (PARAFFINE)",
+    "link": "p/paraf.htm"
+  },
+  "PAREIR": {
+    "short_name": "PAREIR",
+    "long_name": "PAREIRA BRAVA (CHONDRODENDRON TOMENTOSUM)",
+    "link": "p/pareir.htm"
+  },
+  "PARTH": {
+    "short_name": "PARTH",
+    "long_name": "PARTHENIUM HYSTEROPHORUS (PARTHENIUM - ESCOBA AMARGO)",
+    "link": "p/parth.htm"
+  },
+  "PASSI": {
+    "short_name": "PASSI",
+    "long_name": "PASSIFLORA INCARNATA",
+    "link": "p/passi.htm"
+  },
+  "PEN": {
+    "short_name": "PEN",
+    "long_name": "PENTHORUM SEDOIDES (PENTHORUM)",
+    "link": "p/pen.htm"
+  },
+  "PERT": {
+    "short_name": "PERT",
+    "long_name": "PERTUSSINUM (PERTUSSIN)",
+    "link": "p/pert.htm"
+  },
+  "PETR": {
+    "short_name": "PETR",
+    "long_name": "PETROLEUM",
+    "link": "p/petr.htm"
+  },
+  "PETROS": {
+    "short_name": "PETROS",
+    "long_name": "PETROSELINUM SATIVUM (PETROSELINUM)",
+    "link": "p/petros.htm"
+  },
+  "PH-AC": {
+    "short_name": "PH-AC",
+    "long_name": "PHOSPHORICUM ACIDUM",
+    "link": "p/ph-ac.htm"
+  },
+  "PHASE": {
+    "short_name": "PHASE",
+    "long_name": "PHASEOLUS NANUS (PHASEOLUS)",
+    "link": "p/phase.htm"
+  },
+  "PHEL": {
+    "short_name": "PHEL",
+    "long_name": "PHELLANDRIUM AQUATICUM (PHELLANDRIUM)",
+    "link": "p/phel.htm"
+  },
+  "PHOS": {
+    "short_name": "PHOS",
+    "long_name": "PHOSPHORUS",
+    "link": "p/phos.htm"
+  },
+  "PHYS": {
+    "short_name": "PHYS",
+    "long_name": "PHYSOSTIGMA VENENOSUM",
+    "link": "p/phys.htm"
+  },
+  "PHYSAL": {
+    "short_name": "PHYSAL",
+    "long_name": "PHYSALIS ALKEKENGI (PHYSALIS - SOLANUM VESICARIUM)",
+    "link": "p/physal.htm"
+  },
+  "PHYT": {
+    "short_name": "PHYT",
+    "long_name": "PHYTOLACCA DECANDRA (PHYTOLACCA)",
+    "link": "p/phyt.htm"
+  },
+  "PIC-AC": {
+    "short_name": "PIC-AC",
+    "long_name": "PICRICUM ACIDUM",
+    "link": "p/pic-ac.htm"
+  },
+  "PIN-S": {
+    "short_name": "PIN-S",
+    "long_name": "PINUS SILVESTRIS",
+    "link": "p/pin-s.htm"
+  },
+  "PIP-M": {
+    "short_name": "PIP-M",
+    "long_name": "PIPER METHYSTICUM",
+    "link": "p/pip-m.htm"
+  },
+  "PIP-N": {
+    "short_name": "PIP-N",
+    "long_name": "PIPER NIGRUM",
+    "link": "p/pip-n.htm"
+  },
+  "PITU-GL": {
+    "short_name": "PITU-GL",
+    "long_name": "PITUITARIA GLANDULA (PITUITARY GLAND)",
+    "link": "p/pitu-gl.htm"
+  },
+  "PIX": {
+    "short_name": "PIX",
+    "long_name": "PIX LIQUIDA",
+    "link": "p/pix.htm"
+  },
+  "PLAN": {
+    "short_name": "PLAN",
+    "long_name": "PLANTAGO MAJOR",
+    "link": "p/plan.htm"
+  },
+  "PLAT": {
+    "short_name": "PLAT",
+    "long_name": "PLATINUM METALLICUM (PLATINA)",
+    "link": "p/plat.htm"
+  },
+  "PLATAN": {
+    "short_name": "PLATAN",
+    "long_name": "PLATANUS OCCIDENTALIS",
+    "link": "p/platan.htm"
+  },
+  "PLB": {
+    "short_name": "PLB",
+    "long_name": "PLUMBUM METALLICUM",
+    "link": "p/plb.htm"
+  },
+  "PODO": {
+    "short_name": "PODO",
+    "long_name": "PODOPHYLLINUM (PODOPHYLLUM)",
+    "link": "p/podo.htm"
+  },
+  "POLYG-H": {
+    "short_name": "POLYG-H",
+    "long_name": "POLYGONUM HYDROPIPEROIDES (POLYGONUM PUNCTATUM)",
+    "link": "p/polyg-h.htm"
+  },
+  "POLYP-P": {
+    "short_name": "POLYP-P",
+    "long_name": "POLYPORUS PINICOLA",
+    "link": "p/polyp-p.htm"
+  },
+  "POP": {
+    "short_name": "POP",
+    "long_name": "POPULUS TREMULOIDES",
+    "link": "p/pop.htm"
+  },
+  "POP-C": {
+    "short_name": "POP-C",
+    "long_name": "POPULUS CANDICANS",
+    "link": "p/pop-c.htm"
+  },
+  "PRIM-O": {
+    "short_name": "PRIM-O",
+    "long_name": "PRIMULA OBCONICA",
+    "link": "p/prim-o.htm"
+  },
+  "PRIM-V": {
+    "short_name": "PRIM-V",
+    "long_name": "PRIMULA VERIS",
+    "link": "p/prim-v.htm"
+  },
+  "PROP": {
+    "short_name": "PROP",
+    "long_name": "PROPYLAMINUM (PROPYLAMIN - TRIMETHYLAMINUM)",
+    "link": "p/prop.htm"
+  },
+  "PRUN": {
+    "short_name": "PRUN",
+    "long_name": "PRUNUS SPINOSA",
+    "link": "p/prun.htm"
+  },
+  "PSOR": {
+    "short_name": "PSOR",
+    "long_name": "PSORINUM",
+    "link": "p/psor.htm"
+  },
+  "PTEL": {
+    "short_name": "PTEL",
+    "long_name": "PTELEA TRIFOLIATA (PTELEA)",
+    "link": "p/ptel.htm"
+  },
+  "PULS": {
+    "short_name": "PULS",
+    "long_name": "PULSATILLA PRATENSIS (PULSATILLA)",
+    "link": "p/puls.htm"
+  },
+  "PULX": {
+    "short_name": "PULX",
+    "long_name": "PULEX IRRITANS",
+    "link": "p/pulx.htm"
+  },
+  "PYROG": {
+    "short_name": "PYROG",
+    "long_name": "PYROGENIUM",
+    "link": "p/pyrog.htm"
+  },
+  "QUAS": {
+    "short_name": "QUAS",
+    "long_name": "QUASSIA AMARA (QUASSIA - PICRAENA EXCELSA)",
+    "link": "q/quas.htm"
+  },
+  "QUEB": {
+    "short_name": "QUEB",
+    "long_name": "QUEBRACHO (ASPIDOSPERMA)",
+    "link": "q/queb.htm"
+  },
+  "QUERC": {
+    "short_name": "QUERC",
+    "long_name": "QUERCUS E GLANDIBUS (QUERCUS GLANDIUM SPIRITUS)",
+    "link": "q/querc.htm"
+  },
+  "QUILL": {
+    "short_name": "QUILL",
+    "long_name": "QUILLAYA SAPONARIA",
+    "link": "q/quill.htm"
+  },
+  "RAD-BR": {
+    "short_name": "RAD-BR",
+    "long_name": "RADIUM BROMATUM (RADIUM)",
+    "link": "r/rad-br.htm"
+  },
+  "RAN-B": {
+    "short_name": "RAN-B",
+    "long_name": "RANUNCULUS BULBOSUS",
+    "link": "r/ran-b.htm"
+  },
+  "RAN-S": {
+    "short_name": "RAN-S",
+    "long_name": "RANUNCULUS SCELERATUS",
+    "link": "r/ran-s.htm"
+  },
+  "RAPH": {
+    "short_name": "RAPH",
+    "long_name": "RAPHANUS SATIVUS (RAPHANUS)",
+    "link": "r/raph.htm"
+  },
+  "RAT": {
+    "short_name": "RAT",
+    "long_name": "RATANHIA PERUVIANA (RATANHIA)",
+    "link": "r/rat.htm"
+  },
+  "RHAM-CAL": {
+    "short_name": "RHAM-CAL",
+    "long_name": "RHAMNUS CALIFORNICA",
+    "link": "r/rham-cal.htm"
+  },
+  "RHEUM": {
+    "short_name": "RHEUM",
+    "long_name": "RHEUM PALMATUM (RHEUM)",
+    "link": "r/rheum.htm"
+  },
+  "RHOD-F": {
+    "short_name": "RHOD-F",
+    "long_name": "RHODODENDRON FERRUGINEUM (RHODODENDRON)",
+    "link": "r/rhod-f.htm"
+  },
+  "RHODI": {
+    "short_name": "RHODI",
+    "long_name": "RHODIUM METALLICUM (RHODIUM)",
+    "link": "r/rhodi.htm"
+  },
+  "RHUS-A": {
+    "short_name": "RHUS-A",
+    "long_name": "RHUS AROMATICA",
+    "link": "r/rhus-a.htm"
+  },
+  "RHUS-G": {
+    "short_name": "RHUS-G",
+    "long_name": "RHUS GLABRA",
+    "link": "r/rhus-g.htm"
+  },
+  "RHUS-T": {
+    "short_name": "RHUS-T",
+    "long_name": "RHUS TOXICODENDRON",
+    "link": "r/rhus-t.htm"
+  },
+  "RHUS-V": {
+    "short_name": "RHUS-V",
+    "long_name": "RHUS VENENATA",
+    "link": "r/rhus-v.htm"
+  },
+  "RIC": {
+    "short_name": "RIC",
+    "long_name": "RICINUS COMMUNIS (RICINUS COMMUNIS - BOFAREIRA)",
+    "link": "r/ric.htm"
+  },
+  "ROB": {
+    "short_name": "ROB",
+    "long_name": "ROBINIA PSEUDACACIA (ROBINIA)",
+    "link": "r/rob.htm"
+  },
+  "ROS-D": {
+    "short_name": "ROS-D",
+    "long_name": "ROSA DAMASCENA",
+    "link": "r/ros-d.htm"
+  },
+  "RUMX": {
+    "short_name": "RUMX",
+    "long_name": "RUMEX CRISPUS",
+    "link": "r/rumx.htm"
+  },
+  "RUTA": {
+    "short_name": "RUTA",
+    "long_name": "RUTA GRAVEOLENS",
+    "link": "r/ruta.htm"
+  },
+  "SABAD": {
+    "short_name": "SABAD",
+    "long_name": "SABADILLA",
+    "link": "s/sabad.htm"
+  },
+  "SABAL": {
+    "short_name": "SABAL",
+    "long_name": "SABAL SERRULATA",
+    "link": "s/sabal.htm"
+  },
+  "SABIN": {
+    "short_name": "SABIN",
+    "long_name": "SABINA",
+    "link": "s/sabin.htm"
+  },
+  "SACCH": {
+    "short_name": "SACCH",
+    "long_name": "SACCHARUM OFFICINALE (SUCROSE)",
+    "link": "s/sacch.htm"
+  },
+  "SAL-AC": {
+    "short_name": "SAL-AC",
+    "long_name": "SALICYLICUM ACIDUM",
+    "link": "s/sal-ac.htm"
+  },
+  "SAL-N": {
+    "short_name": "SAL-N",
+    "long_name": "SALIX NIGRA",
+    "link": "s/sal-n.htm"
+  },
+  "SALV": {
+    "short_name": "SALV",
+    "long_name": "SALVIA OFFICINALIS",
+    "link": "s/salv.htm"
+  },
+  "SAMB": {
+    "short_name": "SAMB",
+    "long_name": "SAMBUCUS NIGRA",
+    "link": "s/samb.htm"
+  },
+  "SANG": {
+    "short_name": "SANG",
+    "long_name": "SANGUINARIA CANADENSIS (SANGUINARIA)",
+    "link": "s/sang.htm"
+  },
+  "SANGIN-N": {
+    "short_name": "SANGIN-N",
+    "long_name": "SANGUINARINUM NITRICUM (SANGUINARINA NITRICA)",
+    "link": "s/sangin-n.htm"
+  },
+  "SANIC": {
+    "short_name": "SANIC",
+    "long_name": "SANICULA AQUA (SANICULA)",
+    "link": "s/sanic.htm"
+  },
+  "SANTIN": {
+    "short_name": "SANTIN",
+    "long_name": "SANTONINUM",
+    "link": "s/santin.htm"
+  },
+  "SAPO": {
+    "short_name": "SAPO",
+    "long_name": "SAPONARIA OFFICINALIS (SAPONARIA)",
+    "link": "s/sapo.htm"
+  },
+  "SARCOL-A": {
+    "short_name": "SARCOL-A",
+    "long_name": "SARCOLACTICUM ACIDUM (SARCOLACTIC ACID)",
+    "link": "s/sarcol-a.htm"
+  },
+  "SAROTH": {
+    "short_name": "SAROTH",
+    "long_name": "SAROTHAMNUS SCOPARIUS (SPARTIUM SCOPARIUM - CYSTISUS SCOPARIUS)",
+    "link": "s/saroth.htm"
+  },
+  "SARR": {
+    "short_name": "SARR",
+    "long_name": "SARRACENIA PURPUREA",
+    "link": "s/sarr.htm"
+  },
+  "SARS": {
+    "short_name": "SARS",
+    "long_name": "SARSAPARILLA OFFICINALIS (SARSAPARILLA)",
+    "link": "s/sars.htm"
+  },
+  "SCROPH-N": {
+    "short_name": "SCROPH-N",
+    "long_name": "SCROPHULARIA NODOSA",
+    "link": "s/scroph-n.htm"
+  },
+  "SCUT": {
+    "short_name": "SCUT",
+    "long_name": "SCUTELLARIA LATERIFOLIA",
+    "link": "s/scut.htm"
+  },
+  "SEC": {
+    "short_name": "SEC",
+    "long_name": "SECALE CORNUTUM (CLAVICEPS PURPUREA)",
+    "link": "s/sec.htm"
+  },
+  "SED-AC": {
+    "short_name": "SED-AC",
+    "long_name": "SEDUM ACRE",
+    "link": "s/sed-ac.htm"
+  },
+  "SEL": {
+    "short_name": "SEL",
+    "long_name": "SELENIUM METALLICUM (SELENIUM)",
+    "link": "s/sel.htm"
+  },
+  "SEMP": {
+    "short_name": "SEMP",
+    "long_name": "SEMPERVIVUM TECTORUM",
+    "link": "s/semp.htm"
+  },
+  "SENEC": {
+    "short_name": "SENEC",
+    "long_name": "SENECIO AUREUS",
+    "link": "s/senec.htm"
+  },
+  "SENEG": {
+    "short_name": "SENEG",
+    "long_name": "SENEGA",
+    "link": "s/seneg.htm"
+  },
+  "SENN": { "short_name": "SENN", "long_name": "SENNA", "link": "s/senn.htm" },
+  "SEP": {
+    "short_name": "SEP",
+    "long_name": "SEPIA OFFICINALIS (SEPIA)",
+    "link": "s/sep.htm"
+  },
+  "SER-ANG": {
+    "short_name": "SER-ANG",
+    "long_name": "SERUM ANGUILLAE (SERUM ANGUILLAR ICHTHYOTOXIN)",
+    "link": "s/ser-ang.htm"
+  },
+  "SIL": {
+    "short_name": "SIL",
+    "long_name": "SILICEA TERRA (SILICEA)",
+    "link": "s/sil.htm"
+  },
+  "SILPHU": {
+    "short_name": "SILPHU",
+    "long_name": "SILPHIUM LACINATUM (SILPHIUM)",
+    "link": "s/silphu.htm"
+  },
+  "SIN-N": {
+    "short_name": "SIN-N",
+    "long_name": "SINAPIS NIGRA (BRASSICA NIGRA)",
+    "link": "s/sin-n.htm"
+  },
+  "SKAT": {
+    "short_name": "SKAT",
+    "long_name": "SKATOLUM (SKATOL)",
+    "link": "s/skat.htm"
+  },
+  "SKOOK": {
+    "short_name": "SKOOK",
+    "long_name": "SKOOKUM CHUCK AQUA (SKOOKUM - CHUCK)",
+    "link": "s/skook.htm"
+  },
+  "SOL-N": {
+    "short_name": "SOL-N",
+    "long_name": "SOLANUM NIGRUM",
+    "link": "s/sol-n.htm"
+  },
+  "SOLID": {
+    "short_name": "SOLID",
+    "long_name": "SOLIDAGO VIRGAUREA (SOLIDAGO VIRGA)",
+    "link": "s/solid.htm"
+  },
+  "SPIG": {
+    "short_name": "SPIG",
+    "long_name": "SPIGELIA ANTHELMIA (SPIGELIA)",
+    "link": "s/spig.htm"
+  },
+  "SPIRA": {
+    "short_name": "SPIRA",
+    "long_name": "SPIRANTHES AUTUMNALIS (SPIRANTHES)",
+    "link": "s/spira.htm"
+  },
+  "SPIRAE": {
+    "short_name": "SPIRAE",
+    "long_name": "SPIRAEA ULMARIA",
+    "link": "s/spirae.htm"
+  },
+  "SPONG": {
+    "short_name": "SPONG",
+    "long_name": "SPONGIA TOSTA",
+    "link": "s/spong.htm"
+  },
+  "SQUIL": {
+    "short_name": "SQUIL",
+    "long_name": "SQUILLA MARITIMA",
+    "link": "s/squil.htm"
+  },
+  "STACH": {
+    "short_name": "STACH",
+    "long_name": "STACHYS BETONICA (BETONICA)",
+    "link": "s/stach.htm"
+  },
+  "STANN": {
+    "short_name": "STANN",
+    "long_name": "STANNUM METALLICUM (STANNUM)",
+    "link": "s/stann.htm"
+  },
+  "STAPH": {
+    "short_name": "STAPH",
+    "long_name": "STAPHYSAGRIA",
+    "link": "s/staph.htm"
+  },
+  "STEL": {
+    "short_name": "STEL",
+    "long_name": "STELLARIA MEDIA",
+    "link": "s/stel.htm"
+  },
+  "STICT": {
+    "short_name": "STICT",
+    "long_name": "STICTA PULMONARIA (STICTA)",
+    "link": "s/stict.htm"
+  },
+  "STIGM": {
+    "short_name": "STIGM",
+    "long_name": "STIGMATA MAYDIS (ZEA)",
+    "link": "s/stigm.htm"
+  },
+  "STILL": {
+    "short_name": "STILL",
+    "long_name": "STILLINGIA SILVATICA (STILLINGIA)",
+    "link": "s/still.htm"
+  },
+  "STRAM": {
+    "short_name": "STRAM",
+    "long_name": "STRAMONIUM",
+    "link": "s/stram.htm"
+  },
+  "STRONT-C": {
+    "short_name": "STRONT-C",
+    "long_name": "STRONTIUM CARBONICUM (STRONTIA)",
+    "link": "s/stront-c.htm"
+  },
+  "STROPH-H": {
+    "short_name": "STROPH-H",
+    "long_name": "STROPHANTHUS HISPIDUS",
+    "link": "s/stroph-h.htm"
+  },
+  "STRY": {
+    "short_name": "STRY",
+    "long_name": "STRYCHNINUM PURUM (STRYCHNINUM)",
+    "link": "s/stry.htm"
+  },
+  "STRY-P": {
+    "short_name": "STRY-P",
+    "long_name": "STRYCHNINUM PHOSPHORICUM (STRYCHNIA PHOSPHORICA)",
+    "link": "s/stry-p.htm"
+  },
+  "STRYCH-G": {
+    "short_name": "STRYCH-G",
+    "long_name": "STRYCHNOS GAULTHERIANA (HOANG NAN)",
+    "link": "s/strych-g.htm"
+  },
+  "SUCC": {
+    "short_name": "SUCC",
+    "long_name": "SUCCINUM",
+    "link": "s/succ.htm"
+  },
+  "SUL-AC": {
+    "short_name": "SUL-AC",
+    "long_name": "SULPHURICUM ACIDUM",
+    "link": "s/sul-ac.htm"
+  },
+  "SUL-I": {
+    "short_name": "SUL-I",
+    "long_name": "SULPHUR IODATUM",
+    "link": "s/sul-i.htm"
+  },
+  "SULFON": {
+    "short_name": "SULFON",
+    "long_name": "SULFONALUM (SULFONAL)",
+    "link": "s/sulfon.htm"
+  },
+  "SULO-AC": {
+    "short_name": "SULO-AC",
+    "long_name": "SULPHUROSUM ACIDUM",
+    "link": "s/sulo-ac.htm"
+  },
+  "SULPH": {
+    "short_name": "SULPH",
+    "long_name": "SULPHUR",
+    "link": "s/sulph.htm"
+  },
+  "SUMB": {
+    "short_name": "SUMB",
+    "long_name": "SUMBULUS MOSCHATUS (SUMBUL - FERULA SUMBUL)",
+    "link": "s/sumb.htm"
+  },
+  "SYM-R": {
+    "short_name": "SYM-R",
+    "long_name": "SYMPHORICARPUS RACEMOSUS (SYMPHORICARPUS RACEMOSA)",
+    "link": "s/sym-r.htm"
+  },
+  "SYMPH": {
+    "short_name": "SYMPH",
+    "long_name": "SYMPHYTUM OFFICINALE (SYMPHYTUM)",
+    "link": "s/symph.htm"
+  },
+  "SYPH": {
+    "short_name": "SYPH",
+    "long_name": "SYPHILINUM",
+    "link": "s/syph.htm"
+  },
+  "SYZYG": {
+    "short_name": "SYZYG",
+    "long_name": "SYZYGIUM JAMBOLANUM",
+    "link": "s/syzyg.htm"
+  },
+  "TAB": { "short_name": "TAB", "long_name": "TABACUM", "link": "t/tab.htm" },
+  "TANAC": {
+    "short_name": "TANAC",
+    "long_name": "TANACETUM VULGARE",
+    "link": "t/tanac.htm"
+  },
+  "TANN-AC": {
+    "short_name": "TANN-AC",
+    "long_name": "TANNICUM ACIDUM (TANNIC ACID)",
+    "link": "t/tann-ac.htm"
+  },
+  "TARAX": {
+    "short_name": "TARAX",
+    "long_name": "TARAXACUM OFFICINALE",
+    "link": "t/tarax.htm"
+  },
+  "TARENT": {
+    "short_name": "TARENT",
+    "long_name": "TARENTULA HISPANICA",
+    "link": "t/tarent.htm"
+  },
+  "TARENT-C": {
+    "short_name": "TARENT-C",
+    "long_name": "TARENTULA CUBENSIS",
+    "link": "t/tarent-c.htm"
+  },
+  "TART-AC": {
+    "short_name": "TART-AC",
+    "long_name": "TARTARICUM ACIDUM",
+    "link": "t/tart-ac.htm"
+  },
+  "TAX": {
+    "short_name": "TAX",
+    "long_name": "TAXUS BACCATA",
+    "link": "t/tax.htm"
+  },
+  "TELL": {
+    "short_name": "TELL",
+    "long_name": "TELLURIUM METALLICUM (TELLURIUM)",
+    "link": "t/tell.htm"
+  },
+  "TER": {
+    "short_name": "TER",
+    "long_name": "TEREBINTHINIAE OLEUM (TEREBINTHINA)",
+    "link": "t/ter.htm"
+  },
+  "TEUCR": {
+    "short_name": "TEUCR",
+    "long_name": "TEUCRIUM MARUM VERUM (TEUCRIUM MARUM)",
+    "link": "t/teucr.htm"
+  },
+  "THAL-MET": {
+    "short_name": "THAL-MET",
+    "long_name": "THALLIUM METALLICUM (THALLIUM)",
+    "link": "t/thal-met.htm"
+  },
+  "THEA": {
+    "short_name": "THEA",
+    "long_name": "THEA CHINENSIS (THEA)",
+    "link": "t/thea.htm"
+  },
+  "THER": {
+    "short_name": "THER",
+    "long_name": "THERIDION CURASSAVICUM (THERIDION)",
+    "link": "t/ther.htm"
+  },
+  "THIOSIN": {
+    "short_name": "THIOSIN",
+    "long_name": "THIOSINAMINUM (RHODALLIN)",
+    "link": "t/thiosin.htm"
+  },
+  "THLAS": {
+    "short_name": "THLAS",
+    "long_name": "THLASPI BURSA PASTORIS (CAPSELLA)",
+    "link": "t/thlas.htm"
+  },
+  "THUJ": {
+    "short_name": "THUJ",
+    "long_name": "THUJA OCCIDENTALIS",
+    "link": "t/thuj.htm"
+  },
+  "THYMOL": {
+    "short_name": "THYMOL",
+    "long_name": "THYMOLUM (THYMOL)",
+    "link": "t/thymol.htm"
+  },
+  "THYMU": {
+    "short_name": "THYMU",
+    "long_name": "THYMUS SERPYLLUM",
+    "link": "t/thymu.htm"
+  },
+  "THYR": {
+    "short_name": "THYR",
+    "long_name": "THYROIDINUM",
+    "link": "t/thyr.htm"
+  },
+  "TIL": {
+    "short_name": "TIL",
+    "long_name": "TILIA EUROPAEA (TILIA EUROPA)",
+    "link": "t/til.htm"
+  },
+  "TITAN": {
+    "short_name": "TITAN",
+    "long_name": "TITANIUM METALLICUM (TITANIUM)",
+    "link": "t/titan.htm"
+  },
+  "TONG": {
+    "short_name": "TONG",
+    "long_name": "TONGO-DIPTERIX ODORATA (TONGO - DIPTRIX ODORATA)",
+    "link": "t/tong.htm"
+  },
+  "TOR": {
+    "short_name": "TOR",
+    "long_name": "TORULA CEREVISIAE",
+    "link": "t/tor.htm"
+  },
+  "TRIB": {
+    "short_name": "TRIB",
+    "long_name": "TRIBULUS TERRESTRIS",
+    "link": "t/trib.htm"
+  },
+  "TRIF-P": {
+    "short_name": "TRIF-P",
+    "long_name": "TRIFOLIUM PRATENSE",
+    "link": "t/trif-p.htm"
+  },
+  "TRIL-P": {
+    "short_name": "TRIL-P",
+    "long_name": "TRILLIUM PENDULUM",
+    "link": "t/tril-p.htm"
+  },
+  "TRINIT": {
+    "short_name": "TRINIT",
+    "long_name": "TRINITROTOLUENUM (TRINITROTOLUENE)",
+    "link": "t/trinit.htm"
+  },
+  "TRIOS": {
+    "short_name": "TRIOS",
+    "long_name": "TRIOSTEUM PERFOLIATUM",
+    "link": "t/trios.htm"
+  },
+  "TRITIC": {
+    "short_name": "TRITIC",
+    "long_name": "TRITICUM REPENS-AGROPYRON REPENS (TRITICUM)",
+    "link": "t/tritic.htm"
+  },
+  "TROM": {
+    "short_name": "TROM",
+    "long_name": "TROMBIDIUM MUSCAE DOMESTICAE (TROMBIDIUM)",
+    "link": "t/trom.htm"
+  },
+  "TUB": {
+    "short_name": "TUB",
+    "long_name": "TUBERCULINUM",
+    "link": "t/tub.htm"
+  },
+  "TUS-P": {
+    "short_name": "TUS-P",
+    "long_name": "TUSSILAGO PETASITES",
+    "link": "t/tus-p.htm"
+  },
+  "UPA": {
+    "short_name": "UPA",
+    "long_name": "UPAS TIEUT (UPAS TIENTE)",
+    "link": "u/upa.htm"
+  },
+  "URAN-N": {
+    "short_name": "URAN-N",
+    "long_name": "URANIUM NITRICUM",
+    "link": "u/uran-n.htm"
+  },
+  "UREA": {
+    "short_name": "UREA",
+    "long_name": "UREA PURA (UREA)",
+    "link": "u/urea.htm"
+  },
+  "URT-U": {
+    "short_name": "URT-U",
+    "long_name": "URTICA URENS",
+    "link": "u/urt-u.htm"
+  },
+  "USN": {
+    "short_name": "USN",
+    "long_name": "USNEA BARBATA",
+    "link": "u/usn.htm"
+  },
+  "UST": {
+    "short_name": "UST",
+    "long_name": "USTILAGO MAYDIS",
+    "link": "u/ust.htm"
+  },
+  "UVA": { "short_name": "UVA", "long_name": "UVA URSI", "link": "u/uva.htm" },
+  "VAC": {
+    "short_name": "VAC",
+    "long_name": "VACCININUM",
+    "link": "v/vac.htm"
+  },
+  "VALER": {
+    "short_name": "VALER",
+    "long_name": "VALERIANA OFFICINALIS (VALERIANA)",
+    "link": "v/valer.htm"
+  },
+  "VANAD": {
+    "short_name": "VANAD",
+    "long_name": "VANADIUM METALLICUM (VANADIUM)",
+    "link": "v/vanad.htm"
+  },
+  "VANIL": {
+    "short_name": "VANIL",
+    "long_name": "VANILLA AROMATICA (VANILLA - PLANIFOLIA)",
+    "link": "v/vanil.htm"
+  },
+  "VARIO": {
+    "short_name": "VARIO",
+    "long_name": "VARIOLINUM",
+    "link": "v/vario.htm"
+  },
+  "VERAT": {
+    "short_name": "VERAT",
+    "long_name": "VERATRUM ALBUM",
+    "link": "v/verat.htm"
+  },
+  "VERAT-V": {
+    "short_name": "VERAT-V",
+    "long_name": "VERATRUM VIRIDE",
+    "link": "v/verat-v.htm"
+  },
+  "VERB": {
+    "short_name": "VERB",
+    "long_name": "VERBASCUM THAPSUS (VERBASCUM)",
+    "link": "v/verb.htm"
+  },
+  "VERBE-U": {
+    "short_name": "VERBE-U",
+    "long_name": "VERBENA URTICAEFOLIA (VERBENA)",
+    "link": "v/verbe-u.htm"
+  },
+  "VESP": {
+    "short_name": "VESP",
+    "long_name": "VESPA CRABRO",
+    "link": "v/vesp.htm"
+  },
+  "VIB": {
+    "short_name": "VIB",
+    "long_name": "VIBURNUM OPULUS",
+    "link": "v/vib.htm"
+  },
+  "VINC": {
+    "short_name": "VINC",
+    "long_name": "VINCA MINOR",
+    "link": "v/vinc.htm"
+  },
+  "VIOL-O": {
+    "short_name": "VIOL-O",
+    "long_name": "VIOLA ODORATA",
+    "link": "v/viol-o.htm"
+  },
+  "VIOL-T": {
+    "short_name": "VIOL-T",
+    "long_name": "VIOLA TRICOLOR",
+    "link": "v/viol-t.htm"
+  },
+  "VIP": {
+    "short_name": "VIP",
+    "long_name": "VIPERA BERUS (VIPERA)",
+    "link": "v/vip.htm"
+  },
+  "VISC": {
+    "short_name": "VISC",
+    "long_name": "VISCUM ALBUM",
+    "link": "v/visc.htm"
+  },
+  "WYE": {
+    "short_name": "WYE",
+    "long_name": "WYETHIA HELENOIDES (WYETHIA)",
+    "link": "w/wye.htm"
+  },
+  "X-RAY": {
+    "short_name": "X-RAY",
+    "long_name": "X-RAY",
+    "link": "x/x-ray.htm"
+  },
+  "XAN": {
+    "short_name": "XAN",
+    "long_name": "XANTOXYLUM FRAXINEUM (XANTHOXYLUM)",
+    "link": "x/xan.htm"
+  },
+  "XERO": {
+    "short_name": "XERO",
+    "long_name": "XEROPHYLLUM",
+    "link": "x/xero.htm"
+  },
+  "YOHIM": {
+    "short_name": "YOHIM",
+    "long_name": "YOHIMBINUM",
+    "link": "y/yohim.htm"
+  },
+  "YUC": {
+    "short_name": "YUC",
+    "long_name": "YUCCA FILAMENTOSA",
+    "link": "y/yuc.htm"
+  },
+  "ZINC": {
+    "short_name": "ZINC",
+    "long_name": "ZINCUM METALLICUM (ZINC)",
+    "link": "z/zinc.htm"
+  },
+  "ZINC-VAL": {
+    "short_name": "ZINC-VAL",
+    "long_name": "ZINCUM VALERIANICUM (ZINCUM VALERIANUM)",
+    "link": "z/zinc-val.htm"
+  },
+  "ZING": {
+    "short_name": "ZING",
+    "long_name": "ZINGIBER OFFICINALE (ZINGIBER)",
+    "link": "z/zing.htm"
+  },
+  "ZIZ": {
+    "short_name": "ZIZ",
+    "long_name": "ZIZIA AUREA (THASPIUM AUREUM - ZIZIA)</font>",
+    "link": "z/ziz.htm"
+  }
+}
