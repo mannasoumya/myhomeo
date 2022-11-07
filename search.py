@@ -86,24 +86,27 @@ for med in data:
         if res != {}:
             results.append(res)
 
+if verbose_mode:
+    banner = " MEDICINE NAME | DOSE | SYMPTOM "
+    print("-"*len(banner))
+    print(banner)
+    print("-"*len(banner))
+else:
+    banner = " MEDICINE NAME | DOSE "
+    print("-"*len(banner))
+    print(banner)
+    print("-"*len(banner))
 
-print("---------------------------------------------------------------")
 to_be_printed = ""
+to_be_printed = to_be_printed + "-"*len(banner) + "\n" + banner + "\n" + "-"*len(banner) + "\n"
+
 for med in results:
     if verbose_mode:
-        banner = " MEDICINE NAME | DOSE | SYMPTOM "
-        print("-"*len(banner))
-        print(banner)
-        print("-"*len(banner))
         r = f'{med["long_name"]}({med["short_name"]}) | {med["dose"] if "dose" in med else None} | {med["symptom"]}'
         print(r)
         to_be_printed = to_be_printed + r + "\n" + "-"*len(r) + "\n"
         print("-"*len(r))
-    else:
-        banner = " MEDICINE NAME | DOSE "
-        print("-"*len(banner))
-        print(banner)
-        print("-"*len(banner))
+    else:        
         r = f'{med["long_name"]}({med["short_name"]}) | {med["dose"] if "dose" in med else None}'
         print(r)
         to_be_printed = to_be_printed + r + "\n" + "-"*len(r) + "\n"
