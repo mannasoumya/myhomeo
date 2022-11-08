@@ -3,14 +3,17 @@
 ```console
 $ python search.py
 
-Usage: python search.py 'symptom' [OPTIONS]
+Usage: python search.py [OPTIONS]
 
 OPTIONS:
-   -s  (bool) : Save result to file
-   -v  (bool) : Enable/Disable Verbose Mode (default: disabled)
-   -h  (bool) : Print this help and exit
+   -symp  (str)  : Search Symptom
+   -med   (str)  : Search Medicine
+   -s     (bool) : Save result to file
+   -v     (bool) : Enable/Disable Verbose Mode (default: disabled)
+   -h     (bool) : Print this help and exit
 
-$ python search.py fever 
+$ python search.py -symp fever
+$ python search.py -med nux
 ```
 ## Interactive Mode in Browser
 
