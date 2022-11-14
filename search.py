@@ -136,33 +136,53 @@ if search_symp:
             f.write(to_be_printed)
         print(f"\n\n File saved to {save_file_name}.")
 
-
+med_count = 0
 if search_med:
     for med in data:
         if med.find(search_med.upper()) >=0 or data[med]['long_name'].find(search_med.upper()) >=0:
+            med_count = med_count + 1
             long_name = data[med]['long_name']
             short_name = data[med]['short_name']
             to_print = f" {long_name} ({short_name}) "
-            print("~"*len(to_print))
+            to_save = ""
+            design = "~"*len(to_print)
+            print(design)
             print(to_print)
-            print("~"*len(to_print))
+            print(design)
             print()
-            print("-"*len(" Description "))
+            to_save = to_save + design + "\n" + to_print + "\n" + design + "\n"
+            design = "-"*len(" Description ")
+            print(design)
             print(" Description ")
-            print("-"*len(" Description "))
+            print(design)
             print(data[med]['description'])
             print()
-            print("-"*len(" Symptoms "))
+            to_save = to_save + design + "\n" + " Description \n" + design + "\n" + data[med]['description'] + "\n\n"
+            design = "-"*len(" Symptoms ")
+            print(design)
             print(" Symptoms ")
-            print("-"*len(" Symptoms "))
+            print(design)
+            to_save = to_save + design + "\n" + " Symptoms \n" + design + "\n"
             if "symptoms" in data[med]:
                 for sym_cat,val in data[med]['symptoms'].items():
                     print(f"|{sym_cat.upper()}| : {val}")
                     print()
-            print("-"*len(" Dose "))
+                    to_save = to_save + f"|{sym_cat.upper()}| : {val}\n\n" 
+            design = "-"*len(" Dose ")
+            print(design)
             print(" Dose ")
-            print("-"*len(" Dose "))
+            print(design)
+            to_save = to_save + design + "\n" + " Dose \n" + design + "\n"
             if "dose" in data[med]:
                 print(f"{data[med]['dose']}")
+                to_save = to_save + f"{data[med]['dose']}\n\n"
             print()
-            
+
+    if med_count == 0:
+        print(f"Medicine like `{search_med}` not found")
+        sys.exit(0)    
+    if save_to_file and med_count>0:
+        save_file_name = f"{search_med}_{str(uuid.uuid4())[:6]}.txt"
+        with open(save_file_name,'w') as f:
+            f.write(to_save)
+        print(f"\n\n File saved to {save_file_name}.")
