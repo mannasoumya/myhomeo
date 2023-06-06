@@ -131,7 +131,7 @@ if search_symp:
             print("-"*len(r))
 
     if save_to_file:
-        save_file_name = f"{search_symp}_{str(uuid.uuid4())[:6]}.txt"
+        save_file_name = f"{search_symp.replace(' ','_')}_{str(uuid.uuid4())[:6]}.txt"
         with open(save_file_name,'w') as f:
             f.write(to_be_printed)
         print(f"\n\n File saved to {save_file_name}.")
@@ -182,7 +182,7 @@ if search_med:
         print(f"Medicine like `{search_med}` not found")
         sys.exit(0)    
     if save_to_file and med_count>0:
-        save_file_name = f"{search_med}_{str(uuid.uuid4())[:6]}.txt"
+        save_file_name = f"{search_med.replace(' ','_')}_{str(uuid.uuid4())[:6]}.txt"
         with open(save_file_name,'w') as f:
             f.write(to_save)
         print(f"\n\n File saved to {save_file_name}.")
